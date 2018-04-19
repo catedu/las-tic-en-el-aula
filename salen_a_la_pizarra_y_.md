@@ -36,7 +36,7 @@
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/tablet3.jpg)
 
-Fig.2.23.Del curso Escuela 2.0.JR Olalla.
+2.23.Del curso Escuela 2.0.JR Olalla.
 
 - ¿Qué ocurre si falla el ordenador personal, si no lo tienen en casa, si...? Nada, no ocurre nada, sigue trabajando en sus cuadernos tradicionales que, mediante una cámara, también podemos proyectar en la pizarra.
 

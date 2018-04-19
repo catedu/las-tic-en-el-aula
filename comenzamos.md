@@ -8,7 +8,7 @@ Pere Marqués habla de:
 
 ![](http://peremarques.pangea.org/images2/explicacion.gif)
 
-Fig 2.7.Tomado de Peré Marqués.**&lt;[http://www.peremarques.net/pizarra.htm](http://peremarques.pangea.org/pizarra.htm)&gt;**
+2.7.Tomado de Peré Marqués.**&lt;[http://www.peremarques.net/pizarra.htm](http://peremarques.pangea.org/pizarra.htm)&gt;**
 
 La pizarra digital ****permite presentar y comentar a toda la clase textos y materiales audiovisuales procedentes del ordenador, de Internet****** **o de cualquier otro dispositivo conectado al sistema: lápiz de memoria, videoproyector, cámara de vídeo, antena de televisión, etc. De esta forma se pueden visualizar: páginas web, presentaciones multimedia y documentos digitales (apuntes, trabajos y proyectos realizados colaborativamente por grupos de estudiantes…), vídeos, prensa y radiotelevisión digital, documentos en papel (que pueden capturar con una simple webcam), etc.
 
@@ -16,14 +16,14 @@ Con estas funcionalidades, las pizarras digitales se utilizan especialmente para
 
 ![](http://peremarques.pangea.org/uabpp/pizventa.jpg)
 
-Fig 2.8.Tomado de Peré Marqués.**&lt;[http://www.peremarques.net/pizarra.htm](http://peremarques.pangea.org/pizarra.htm)&gt;**
+2.8.Tomado de Peré Marqués.**&lt;[http://www.peremarques.net/pizarra.htm](http://peremarques.pangea.org/pizarra.htm)&gt;**
 
 Las pizarras digitales se pueden controlar a distancia con ratones, teclados y tabletas gráficas inalámbricas. Además, si a este sistema ordenador-videoproyector que constituye la pizarra digital le añadimos un tablero interactivo sobre el que proyectar las imágenes, el resultado se llama pizarra digital interactiva (PDI), y permite interactuar directamente con el ordenador desde el tablero con un puntero, como si se tratara de una enorme pantalla táctil.
 
 
 ![](http://peremarques.pangea.org/images2/explicacion2.gif)
 
-Fig 2.9.Tomado de Peré Marqués.**&lt;[http://www.peremarques.net/pizarra.htm](http://peremarques.pangea.org/pizarra.htm)&gt;**
+2.9.Tomado de Peré Marqués.**&lt;[http://www.peremarques.net/pizarra.htm](http://peremarques.pangea.org/pizarra.htm)&gt;**
 
 Con la entrada de las pizarras digitales en las aulas de clase, que ya está entre las prioridades de casi todas las Consejerías de Educación de nuestro país, dentro de unos pocos años habremos superado aquella imagen de intemporalidad de las aulas que nos ofrecía Papert (1996) cuando nos invitaba a imaginar que si en el siglo XIX se hubiera congelado a un cirujano y a un maestro, y ahora los despertáramos, el cirujano no reconocería nada en las salas de operaciones; en cambio el maestro encontraría las aulas igual, con la pizarra y la tiza a punto para seguir explicando.
 

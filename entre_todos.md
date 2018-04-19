@@ -26,7 +26,7 @@ La idea es que podamos dedicar más esfuerzo a su participación, a la cooperaci
 
 ![](capturadaeroski.jpg)
 
-Fig 2.27.Captura pantalla. 
+2.27.Captura pantalla. 
 
 **Jugamos en grupo<br/>**
 

@@ -8,7 +8,7 @@ En primer lugar no todo o que se cuenta es cierto....
 
 ![](img/capturadanueva.jpg)
 
-Fig.2.1:De J.R. Olalla para el curso de Aularagon "Escuela 2.0"
+2.1:De J.R. Olalla para el curso de Aularagon "Escuela 2.0"
 
 ## Reflexión
 

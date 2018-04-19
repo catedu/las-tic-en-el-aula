@@ -16,46 +16,40 @@
 - Conectividad wifi que va mejorándose poco a poco y, a veces,suficiente para el acceso a Internet de toda la ganadería de equipos.
 - Carros para la custodia y carga de los portátiles.
 
- 
+![1.3.Imagen propia](img/la_foto_19.JPG)
 
-
-![](img/la_foto_19.JPG)
-
-Fig.1.3.Imagen propia
-
- 
-
-**Recursos y organización**
-
- 
+### Recursos y organización
 
 Esta variedad de recursos tecnológicos, nos obliga a centrarnos en lo último que ha ido llegando, entendiendo que ya controlamos suficientemente lo más viejo. Y nos requiere a plantear algunas cuestiones respecto a su organización que, si bien no está recogidas en los protocolos, pueden servir para aplicar otras fórmulas diferentes a las habituales.
 
  
 
-<li>**Pizarras Digitales Interactivas**
-<ul>
-- Conexión y funcionamiento
-- Manejo instrumental
-- Algunas recomendaciones.
-
-- Un cambio en la tecnología
-<li>Recomendaciones y protocolos:
-<ul>
-- Adjudicación al alumno.
-- Organización de la red local (ips).
-- Documentación de control.
-- El proceso de entrega.
-- Formación mínima para el alumno.
-- Consejos de mantenimiento.
-- Normalización común.
-- ¿Se los llevan a casa? ¿Cuándo? ¿Quiénes? ¿Para qué?
-- Los miniportátiles de aula.
-
-- Ordenador fijo de aula.
-- Servidor: contenidos y administración.
-- Sonido y caja de control.
-- Carros.
+* **Pizarras Digitales Interactivas**
+	- Conexión y funcionamiento
+	- Manejo instrumental
+	- Algunas recomendaciones.
+* **El vídeoproyector**: normas para conservación y uso saludable.
+* **Miniportátiles y tablets** (modelos individuales o colectivos):
+	- Un cambio en la tecnología
+	- Recomendaciones y protocolos:
+		- Adjudicación al alumno.
+		- Organización de la red local (ips).
+		- Documentación de control.
+		- El proceso de entrega.
+		- Formación mínima para el alumno.
+		- Consejos de mantenimiento.
+		- Normalización común.
+		- ¿Se los llevan a casa? ¿Cuándo? ¿Quiénes? ¿Para qué?
+		- Los miniportátiles de aula.
+* **Otros componentes**
+	- Ordenador fijo de aula.
+	- Servidor: contenidos y administración.
+	- Sonido y caja de control.
+	- Carros.
+* Recursos educativos para el trabajo en el aula.
+* Problemas de Hardware
+* Organización del centro
+* Relación con las familias 
 
  
 
@@ -91,7 +85,7 @@ Por otra parte, la asunción de actuaciones formativas dirigidas a la ciudadaní
 
  
 
-![](http://peremarques.pangea.org/uabpp/GESTIO.JPG)
+![1.4. Tomado de Pere Marqués: "Cambios en la docencia.Construyendo la Escuela del futuro"](http://peremarques.pangea.org/uabpp/GESTIO.JPG)
 
-Fig 1.4. Tomado de Pere Marqués: "Cambios en la docencia.Construyendo la Escuela del futuro"
+
 

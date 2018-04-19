@@ -18,7 +18,7 @@ Disponer de una buena cartera de materiales curriculares digitales es un buen pu
 
 ![](capturadaintef.jpg)
 
-Fig 3.1. Captura pantalla.
+3.1. Captura pantalla.
 
 - Tercer ciclo de primaria
 
@@ -31,7 +31,7 @@ Fig 3.1. Captura pantalla.
 
  
 
-Fig 3.2. Captura pantalla.
+3.2. Captura pantalla.
 
 - [Secundaria](http://e-ducativa.catedu.es/44700165/sitio/index.cgi?wid_item=118&amp;wid_seccion=22)
 
@@ -42,7 +42,7 @@ Fig 3.2. Captura pantalla.
 
  
 
-Fig 3.3. Captura pantalla.
+3.3. Captura pantalla.
 
  
 

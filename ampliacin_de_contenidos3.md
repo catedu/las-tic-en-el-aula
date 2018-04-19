@@ -16,7 +16,7 @@ Para ver el manual de uso de este programa [( Pincha aquí)](http://dl.dropboxus
 
 ![](http://www.catedu.es/facilytic/wp-content/uploads/2013/11/teambox.png)
 
-Fig 4.51.Captura pantalla.
+4.51.Captura pantalla.
 
 Gestionar proyectos grupales es una tarea compleja, hacerlo de modo sistemático, es muy importante para que nuestros alumnos aprendan la dinámica de trabajar en equipo, la importancia de la coordinación, de la comunicación, de asumir responsabilidades, de valorar las aportaciones propias y ajenas, de cada uno de los componentes en el desarrollo de la tarea final…
 

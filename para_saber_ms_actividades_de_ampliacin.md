@@ -18,7 +18,7 @@ Seguro que buscando en Internet encuentras muchas más posibilidades, lo que aqu
 
  
 
-Fig 2.32.Captura pantalla.
+2.32.Captura pantalla.
 
 **Primaria:**
 
@@ -29,7 +29,7 @@ Fig 2.32.Captura pantalla.
 
 ![](capturadatelefonica.jpg)
 
-Fig 2.33.Captura pantalla.
+2.33.Captura pantalla.
 
 **Lengua y literatura:**
 
@@ -66,7 +66,7 @@ Fig 2.33.Captura pantalla.
 
 ![](capturadaecono.jpg)
 
-Fig 2.39. Captura pantalla.
+2.39. Captura pantalla.
 
 **Transversales:**
 

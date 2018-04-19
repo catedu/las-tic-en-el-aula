@@ -17,7 +17,7 @@ En su menú principal resaltamos los **recursos para el profesorado **como muy
 
  
 
-Fig 5.12.Captura pantalla.
+5.12.Captura pantalla.
 
 **Recursos para el profeso****rado**
 
@@ -27,5 +27,5 @@ Fig 5.12.Captura pantalla.
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/intef.jpg)
 
-Fig 5.13.Captura pantalla.
+5.13.Captura pantalla.
 

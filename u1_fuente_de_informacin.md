@@ -8,7 +8,7 @@ Todos hemos utilizado **Internet como fuente de información**: entramos a **g
 
 ![](img/capturadagoogle2.jpg)
 
-Fig 7.4.Captura pantalla.Imagen propia
+7.4.Captura pantalla.Imagen propia
 
 **Y la información puede ser de muchos tipos:**
 

@@ -6,7 +6,7 @@
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/webblogwiki.jpg)
 
-Fig 8.6.Tomado de Escuela 2.0. JR Olalla
+8.6.Tomado de Escuela 2.0. JR Olalla
 
 ¿Utilizo Wikis? ¿Utilizo Blogs?... Esta es la duda que nos solemos plantear, yo la he resuelto tirando por la calle del medio: wikis y blogs, porque son dos plataformas que, con sus semejanzas , sobre todo en la sencillez de manejo y la capacidad para colaborar, enlazar y etiquetar, tienen sus diferencias apreciables.
 

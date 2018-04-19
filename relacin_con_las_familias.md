@@ -63,5 +63,5 @@ Las características del uso de las TIC deberán transmitirse a las familias con
 
  
 
-Fig 1.43.Captura pantalla.
+1.43.Captura pantalla.
 

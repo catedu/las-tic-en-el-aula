@@ -5,7 +5,7 @@
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/INNOVACION1.jpg)
 
-Fig 6.1.Tomado de Escuela 2.0. JR Olalla.
+6.1.Tomado de Escuela 2.0. JR Olalla.
 
 ## Objetivos
 

@@ -9,7 +9,7 @@
 
 ![](img/capturada18_2.jpg)
 
-Fig.1.18. Captura pantalla
+1.18. Captura pantalla
 
 Aunque no ofrece muchas prestaciones avanzadas si que puede ser un buen referente para empezar a trabajar de manera diferente con la PDI en el aula. Puede servir para perder el miedo y practicar desde cualquier PC ya que se puede llevar en el lápiz de memoria.
 
@@ -36,7 +36,7 @@ Como se ha comentado,al activarlo, el programa presenta su **barra de herramien
 
 ![](img/capturada22.jpg)
 
-Fig.1.21. Captura pantalla
+1.21. Captura pantalla
 
 ![](img/capturada22_2.jpg)
 
@@ -65,7 +65,7 @@ Se trata de otro programa gratis y portable que es un poco más limitado que Poi
 
 ![](img/capturada23.jpg)
 
-Fig.1.23. Captura pantalla
+1.23. Captura pantalla
 
 Su funcionamiento es similar. Una vez iniciado el programa, aparece esta barra de herramientas que permite, en este caso sólo dibujar o añadir formas, sobre la que haya en la pantalla.
 

@@ -8,7 +8,7 @@ Disponer de una buena cartera de materiales curriculares digitales es un buen pu
 
 ![](capturadaintef.jpg)
 
-Fig 3.4.Captura pantalla.
+3.4.Captura pantalla.
 
 <li>
 El [**Instituto de Tecnologías Educativas**](http://www.ite.educacion.es/) es la unidad del Ministerio de Educación responsable de la integración de las TICs en las etapas educativas no universitarias. Sus objetivos son:<br/>

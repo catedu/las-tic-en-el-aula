@@ -27,7 +27,7 @@ Conviene manejar estas tres herramientas lo más pronto posible, pues facilitan 
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/nensordenata1.jpg)
 
-Fig 4.1.Tomada del Curso EScuela 2.0 de JR Olalla.
+4.1.Tomada del Curso EScuela 2.0 de JR Olalla.
 
 **No olvides que para comenzar a utilizar estas herramientas puedes solicitar la ayuda de alguien de tu centro, del coordinador del Ramón y Cajal o del CIFE de tu ámbito. ****Recuerda también que muchos de tus alumnos sí saben usarlas.**
 

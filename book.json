@@ -1,5 +1,10 @@
 {
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
+    "language": "es",
+    "variables": {
+        "title": "Formación de entrada en Educación de Personas Adultas",
+        "author": "Ricardo Civera Marín"
+    },
     "pluginsConfig": {
         "image-captions": {
             "caption": "Imagen - _CAPTION_"

@@ -25,7 +25,7 @@ Los [blogs de Sociales](http://www.iestiemposmodernos.com/losblogsdesociales/),
 
 ![](capturadamates.jpg)
 
-Fig 2.16.Captura pantalla.
+2.16.Captura pantalla.
 
 **Web Quest: [Una vuelta a las Mates en 80 días](http://salonsowebquest.blogspot.com/)**
 

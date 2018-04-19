@@ -21,7 +21,7 @@ La gran aportación de la Web 2.0 es precisamente su espíritu cooperativo; su e
 
 ![](capturadaPADLET.jpg)
 
-Fig 7.11.Captura de pantalla.
+7.11.Captura de pantalla.
 
 Cualquier servicio para colgar **e-documentos**, **presentaciones o vídeos ** permitirá colgar el resultado de las colaboraciones realizadas en el ordenador y compartir y colaborar con otras aulas y otros centros que estén haciendo lo mismo.
 

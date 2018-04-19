@@ -36,7 +36,7 @@ Las distintas versiones de una misma página permiten poner en escena procesos d
 - [Aprende ](http://aulablog21.wikispaces.com/TALLER+DE+WIKIS)a hacer tu wiki, aunque dependerá de qué servicio utilices.
 - La wiki personal del [profesor](http://jr20.wikispaces.com/) para poner en la red sus aportaciones.
 
-Fig 8.4.Captura pantalla.Imagen propia.
+8.4.Captura pantalla.Imagen propia.
 
 **En resumen**
 

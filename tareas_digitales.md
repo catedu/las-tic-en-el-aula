@@ -12,7 +12,7 @@ También existen otras alternativas a estas cuentas...
 
 ![](img/capturadadrive.jpg)
 
-Fig 2.26.Captura pantalla.Imagen propia[<br/>](http://www.flickr.com/photos/infocux/)
+2.26.Captura pantalla.Imagen propia[<br/>](http://www.flickr.com/photos/infocux/)
 
 También podemos subir al servidor de **Google **los archivos que hayamos realizado con procesadores de textos, hojas de cálculo o presentaciones en nuestro ordenador, ya que es compatible con numerosos formatos. De esta forma podemos poner a disposición de los alumnos y de otros compañeros la biblioteca de recursos que hemos ido acumulando a lo largo de nuestra vida docente. Estos archivos pueden pasar a formar parte de nuestro blog o nuestra wiki mediante vínculos.
 
@@ -33,7 +33,7 @@ Buena parte del alumnado de las aulas integradas en el programa Escuela 2.0 tien
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/grifo.jpg)
 
-Fig 2.27. Tomada del Curso Escuela 2.0. JR Olalla.
+2.27. Tomada del Curso Escuela 2.0. JR Olalla.
 
 Implicando a los alumnos (de forma individual, estructurada, rotatoria o como se considere más oportuno) en la utilización de los dispositivos del aula. Por ejemplo, estableciendo turnos semanales para la buena conservación de los dispositivos de aula o asegurando que el profesor tenga estos mismos dispositivos ya en marcha en el momento de comenzar las clases. Son los conocidos en algunos centros donde ya se usan estos procedimientos, como “alumnos expertos”.
 

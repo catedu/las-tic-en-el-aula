@@ -6,7 +6,7 @@ Que podamos viajar por [Youtube](http://www.youtube.com/?gl=ES&amp;hl=es), [Sl
 
 ![](img/capturadayoutube.jpg)
 
-Fig 7.5. Captura pantalla
+7.5. Captura pantalla
 
  
 

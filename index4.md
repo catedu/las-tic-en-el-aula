@@ -6,7 +6,7 @@ Resultaría prolijo intentar relacionar todos los recursos que hay en la red par
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/atlante.png)
 
-Fig 5.1: Tomada del curso Escuela 2.0 de JR Olalla
+5.1: Tomada del curso Escuela 2.0 de JR Olalla
 
  
 

@@ -10,5 +10,5 @@ El trabajar con ellos no excluye usar también un programa propio de la PDI, per
 
  
 
-Fig.1.9.Licencia: [Algunos derechos reservados](http://creativecommons.org/licenses/by/2.0/) por [aabrilru ](http://www.flickr.com/photos/aabrilru/)En: [http://www.flickr.com/photos](http://www.flickr.com/photos/aabrilru/4733690493/sizes/m/in/photostream/)
+1.9.Licencia: [Algunos derechos reservados](http://creativecommons.org/licenses/by/2.0/) por [aabrilru ](http://www.flickr.com/photos/aabrilru/)En: [http://www.flickr.com/photos](http://www.flickr.com/photos/aabrilru/4733690493/sizes/m/in/photostream/)
 

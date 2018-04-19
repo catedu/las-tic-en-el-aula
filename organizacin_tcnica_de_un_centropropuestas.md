@@ -10,7 +10,7 @@ Es preciso establecer con claridad, por escrito si es preciso, el reparto de fun
 
 ![](http://peremarques.pangea.org/uabpp/GESTIO.JPG)
 
-Fig 1.40.Tomado de Peré Marqués "Cambios en la docencia" 
+1.40.Tomado de Peré Marqués "Cambios en la docencia" 
 
  
 

@@ -11,7 +11,7 @@
 1. Podemos acceder al buscador simple de **Agrega **desde el propio CATEDU, utilizando el recorrido 1.
 1. O bien directamente a **Agrega **mediante el recorrido 2, donde también podremos usar en nivel de búsqueda avanzado.
 
-Fig 5.10. Captura pantalla.
+5.10. Captura pantalla.
 
 La búsqueda de recursos en Agrega puede hacerse por:
 

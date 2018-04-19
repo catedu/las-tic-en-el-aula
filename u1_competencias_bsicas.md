@@ -34,7 +34,7 @@
 
  
 
-Fig 6.3.Captura pantalla.
+6.3.Captura pantalla.
 
  
 
@@ -47,7 +47,7 @@ Y, por último un recurso más para la Aplicación didáctica de las TIC  a tra
 
  
 
-Fig 6.4.Captura pantalla. 
+6.4.Captura pantalla. 
 
  
 

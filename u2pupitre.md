@@ -22,13 +22,13 @@ El pupitre está integrado en la ****[intranet](http://www.catedu.es/intranetyp
 
 **Así lo ve el alumnado**
 
-Fig 4.17.Captura pantalla.
+4.17.Captura pantalla.
 
 Tras seleccionar curso y área y bloque, el alumnado verá una propuesta de trabajo que está integrada por un texto explicativo que puede contener vínculos y, si se recomiendan en la propuesta, archivos para descargar. Hay que insistir en lo mismo que dijimos para la ****[intranet](http://www.catedu.es/intranetypupitre/index.php)****: la descarga de propuestas se realiza guardando el archivo y, posteriormente abriéndolo para trabajar con él.
 
 **El pupitre del profesorado o del administrador**
 
-Fig 4.18.Captura pantalla.
+4.18.Captura pantalla.
 
 El profesorado, cuando trabaja con una propuesta ya realizada, tras seleccionar el curso, área y bloque, accede a la propuesta para el alumno con la posibilidad de modificarla, además ve la propuesta didáctica que realizó quien la hizo y otras propuestas (en el caso de que las haya) que puede incorporar en todo o en parte a la que verá el alumno. También puede descargar los archivos que la acompañan, cambiarlos por otros, eliminar alguno de ellos o añadir más e, incluso, descargarlos, modificarlos y volver a subirlos.
 

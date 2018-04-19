@@ -17,7 +17,7 @@ La incorporación de los centros a este servicio se realiza mediante petición c
 
 Proporciona un entorno dinámico, editable una vez configurado desde un simple procesador de textos, para alojar la web institucional del centro, lo que facilita enormemente su mantenimiento ya que, dependiendo de los permisos otorgados, todo el profesorado podrá editar contenidos y subirlos con un clic. Presentamos como ejemplo el sito del **[IES Siglo XXI](http://e-ducativa.catedu.es/50011070/sitio/) **de Pedrola.
 
-Fig 4.31. Captura pantalla.
+4.31. Captura pantalla.
 
 **La bitácora**
 
@@ -33,11 +33,11 @@ Ante la pregunta de si utilizamos la ****[intranet](http://www.aularagon.org/Fi
 
 **Más información**
 
-Fig 4.33.Captura pantalla.
+4.33.Captura pantalla.
 
 Tras la entrada identificada al aula virtual, nos ofrecerá un desplegable con las aulas en las que estamos dados de alta o accederá directamente al aula si sólo estamos en una. Allí encontramos su página principal (cada grupo tiene la suya propia) en la que pueden aparecen algunos de los elementos que ves en la imagen. El menú de secciones es configurable de forma que podemos mostrar aquellas opciones que queramos utilizar.
 
-Fig 4.34.Captura pantalla.
+4.34.Captura pantalla.
 
 El nombre del grupo, las últimas noticias publicadas, la identificación del usuario y, sobre todo, lo que tiene pendiente de leer son las entradas más relevantes. Este es el aspecto que tiene el contenido de la página de **archivos**, muy similar al de enlaces. Si el usuario tiene permisos para ello, podrá subirlos, en caso contrario, sólo podrá descargarlos.
 

@@ -53,7 +53,7 @@ Las redes sociales permiten utilizar **objetos**: productos digitales en forma 
 
 ![](capturadaTitwersar.jpg)
 
-Fig 7.15.Captura pantalla.
+7.15.Captura pantalla.
 
 [Eduredes ](http://eduredes.ning.com/)es un lugar de intercambio de experiencias en la administración de redes sociales educativas, uso docente de las redes, posibilidades y todo lo que implica el uso de las redes sociales con fines educativos y relacionadas con la educación.
 
@@ -64,7 +64,7 @@ Fig 7.15.Captura pantalla.
 
  
 
-Fig 7.16.Captura pantalla.
+7.16.Captura pantalla.
 
  
 

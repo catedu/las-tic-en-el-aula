@@ -5,7 +5,7 @@ La integración de las TIC en el aula se produce de una forma adaptada al profes
 
 Por ello, proponemos una **hoja de ruta** desde un punto de salida que supone cambiar el encerado tradicional por otro electrónico e interactivo, con la intención de que cada participante se incorpore a ella en el punto correspondiente a su nivel actual (al principio, en el tercer paso, en el quinto...), sin necesidad de volver por caminos ya recorridos individualmente y con la pretensión de que todo el profesorado llegue a la meta en un momento u otro, dependiendo de su punto de partida y de su capacidad de avance.
 
-Fig 2.3. Tomada del curso Escuela 2.0 de JR Olalla
+2.3. Tomada del curso Escuela 2.0 de JR Olalla
 
 <br/>Conviene recordar que no se trata de llegar un punto donde nos encontremos cómodos, ese lugar en el que seguimos haciendo lo que hacíamos aunque con otra pizarra, sino que se trata de adoptar metodologías que nos permitan integrar la nueva herramienta para conseguir mejorar las competencias (todas, no sólo la digital) de nuestros alumnos ya que son ellos los verdaderos destinatarios de la integración de las TIC.
 
@@ -32,7 +32,7 @@ Lo ideal sería hacerlo sobre una PDI, pero en caso de que no puedas acceder a e
 
  
 
-Fig.2.4: Imagen Propia<br/>
+2.4: Imagen Propia<br/>
 
 Si tenes cualquier duda no dudes en consultarlo mediante el correo del curso.
 

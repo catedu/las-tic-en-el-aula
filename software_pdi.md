@@ -21,7 +21,7 @@ Cuando la interacción, que nos ofrece la PDI, facilite el aprendizaje de los co
 
 ![](img/capturadaM2.jpg)
 
-Fig.2.6.Licencia: [Algunos derechos reservados](http://creativecommons.org/licenses/by-sa/2.0/) por [luistorresotero](http://www.flickr.com/photos/67205343@N08/). En [http://www.flickr.com/photos/](http://www.flickr.com/photos/67205343@N08/6155171761/sizes/m/in/photostream/)
+2.6.Licencia: [Algunos derechos reservados](http://creativecommons.org/licenses/by-sa/2.0/) por [luistorresotero](http://www.flickr.com/photos/67205343@N08/). En [http://www.flickr.com/photos/](http://www.flickr.com/photos/67205343@N08/6155171761/sizes/m/in/photostream/)
 
 Algunas ideas:
 

@@ -19,14 +19,14 @@ Los nuevos cursos de Moodle que [CATEDU](http://www.catedu.es/webcatedu/index
 
  
 
-Fig 48 y 49. capturas pantalla.
+48 y 49. capturas pantalla.
 
  
 
 
 ![](capturadamoodle.jpg)
 
-Fig 4.50. Captura pantalla.
+4.50. Captura pantalla.
 
  
 

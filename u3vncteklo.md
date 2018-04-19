@@ -8,7 +8,7 @@ No entraremos en cuestiones de instalación y configuración del programa, ya qu
 
 ![](img/capturadateklo.jpg)
 
-Fig 4.28.Captura pantalla
+4.28.Captura pantalla
 
 De todos modos, quien mejor solucionará el problema es el coordinador del programa Ramón y Cajal del centro.
 

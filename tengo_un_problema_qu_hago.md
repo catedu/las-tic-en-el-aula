@@ -39,7 +39,7 @@ Para ello hay que pulsar simultáneamente la teclas **Fn** y la que en el apar
 
 ![](img/capturada15.1.jpg)
 
-Fig.1.39: Imagen Propia
+1.39: Imagen Propia
 
 Pulsándolas reiteradamente se irá pasando de un visionado a otro (sólo ordenador, sólo proyector, ambos).
 

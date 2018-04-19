@@ -40,13 +40,13 @@ Para acceder desde cualquier equipo de la red local conectada al servidor de cen
 
  
 
-Fig 4.3.Captura pantalla. 
+4.3.Captura pantalla. 
 
 <br/>**Alumno**<br/>Cuando un usuario se identifica y es reconocido como alumno (1) tiene acceso además de a lo que ve el invitado, a “**Mi carpeta**” (su carpeta personal) y en ella puede crear carpetas, subir archivos, eliminar carpetas y archivos…. En definitiva, tiene control total sobre el contenido de su carpeta. Además puede cambiar su contraseña tantas veces como quiera, aunque habrá que advertir a los alumnos que no conviene estar cambiándola continuamente; en caso de olvido de la contraseña, el profesor puede proporcionarle una nueva.
 
  
 
-Fig 4.4.Captura pantalla
+4.4.Captura pantalla
 
 **Profesor**
 
@@ -61,7 +61,7 @@ Además de tener acceso a todo lo que tienen los alumnos, los profesores pueden:
 
  
 
-Fig 4.5.Captura pantalla.<br/><br/>**Administrador**<br/>Es el usuario que tiene permiso total sobre la Intranet. Por supuesto, tiene permiso para todo lo que lo tiene cualquier profesor, pero, además:
+4.5.Captura pantalla.<br/><br/>**Administrador**<br/>Es el usuario que tiene permiso total sobre la Intranet. Por supuesto, tiene permiso para todo lo que lo tiene cualquier profesor, pero, además:
 
 - Puede dar de alta y modificar a usuarios profesores.
 - Puede modificar las webs preferidas que han introducido otros profesores.
@@ -71,13 +71,13 @@ Fig 4.5.Captura pantalla.<br/><br/>**Administrador**<br/>Es el usuario que tiene
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/intranetadmin.jpg)
 
-Fig 4.6.Captura pantalla.
+4.6.Captura pantalla.
 
 Información adicional para administradores [►](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/adminintranet.pdf)
 
 **Descripción general** <br/><br/>
 
-Fig 4.7. Captura pantalla. 
+4.7. Captura pantalla. 
 
 - **Cabecera: **Lo principal en ella son los datos del centro y el anagrama del mismo. Todos estos datos los pone el Administrador de la Intranet desde la opción de configuración.
 - **Zona de menú: **En ella están las opciones que en cada momento están disponibles, según el permiso que tenga el usuario, cuyo nombre aparece cuando se identifica. Entonces desaparece el formulario para identificarse, y, en su lugar está la opción de cerrar la sesión. Junto a ella aparecerá el enlace a “**E******pupitre**** si es que la Intranet detecta que está instalado en el ordenador.
@@ -96,7 +96,7 @@ Para distinguir claramente si nos encontramos en la carpeta **Descargas** o en
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/descarga.jpg)
 
-Fig 4.8. Captura pantalla.
+4.8. Captura pantalla.
 
 ![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/nuevacarpeta.jpg)
 
@@ -127,7 +127,7 @@ Su finalidad es proponer a los alumnos alguna web que deben visitar proporcioná
 - Pinchando sobre un mensaje accedemos a su contenido con la opción de responderlo con sólo escribir en el campo de texto que aparecerá bajo el contenido del mensaje.
 - La opción de **Nuevo correo**, presenta el formulario en el que tenemos que elegir el o los destinatarios (para enviar el mensaje a varios destinatarios, basta con ir pinchando sobre los nombres que aparecen en la lista mientras se mantiene pulsada la tecla CTRL), escribir el asunto y el contenido del mensaje.
 
-Fig 4.13.Captura pantalla.
+4.13.Captura pantalla.
 
 **Ver carpetas**
 
@@ -137,7 +137,7 @@ Fig 4.13.Captura pantalla.
 
  
 
-Fig 4.14. Captura pantalla.
+4.14. Captura pantalla.
 
 **Carpetas asociadas**
 
@@ -145,7 +145,7 @@ Fig 4.14. Captura pantalla.
 
 Su función es la de asociar determinadas carpetas de los alumnos al perfil concreto del profesor, de tal manera que se puede descargar rápidamente el contenido de las carpetas asociadas en un archivo comprimido y a la inversa: a partir de un archivo comprimido, subir los trabajos corregidos a las correspondientes carpetas.<br/>Esta opción es útil para los casos de que un profesor quiera llevarse a otro ordenador los trabajos de su área de todos los alumnos de la clase, sin necesidad de acceder a cada carpeta descargar los archivos uno por uno.
 
-Fig 4.15. Captura pantalla.
+4.15. Captura pantalla.
 
 **El área está separada en cuatro partes**.
 
@@ -162,7 +162,7 @@ Sólo los profesores y el administrador tienen acceso a esta sección. En ella t
 
  
 
-Fig 4.16.Captura pantalla.
+4.16.Captura pantalla.
 
 Para añadir un nuevo usuario tenemos que pulsar sobre el icono de la parte superior izquierda, con lo que nos aparecerá el formulario correspondiente: Tanto el login (que es único) y la contraseña (que hay que introducir dos veces) deben tener entre 1 y 10 caracteres, entre los que hay que excluir el espacio, las tildes, la ñ, y todo tipo de carácter extraño. Convendría limitarse a letras minúsculas y números.
 

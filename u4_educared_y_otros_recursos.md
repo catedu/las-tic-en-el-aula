@@ -24,7 +24,7 @@ Las propuestas para PDI tienen todas una estructura similar:
 
 - El [IES Salvador Victoria de Monreal del Campo](http://iesmonre.educa.aragon.es/webpdi/index.htm) pone a nuestra disposición su colección de recursos.
 
-Fig 5.16.Captura pantalla.
+5.16.Captura pantalla.
 
 - Redined: red de información educativa
 

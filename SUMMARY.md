@@ -3,8 +3,8 @@
 * [Introducción](README.md)
 
 ____
-### MÓDULO 1: PROGRAMA A REALIZAR | MÓDULO1: PROGRAMA A REALIZAR 
-* [MÓDULO 1: PROGRAMA A REALIZAR](index0.md)
+### 1. PROGRAMA A REALIZAR 
+* [PROGRAMA A REALIZAR](index0.md)
 * [Contenidos](contenidos.md)
 	* [U1. Consideraciones Previas](u1_consideraciones_previas.md)
 	* [U2. Equipamiento técnico, recursos a utilizar y organización de los centros](u2_equipamiento_tcnico_recursos_a_utilizar_y_organizacin_de_los_centros.md)
@@ -22,7 +22,8 @@ ____
 		* [Organización Técnica de un centro:Propuestas](organizacin_tcnica_de_un_centropropuestas.md)
 		* [Relación con las familias](relacin_con_las_familias.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
-* [Créditos](crditos.md)
+
+<!--
 ### MÓDULO 2 : UNA PIZARRA... ¿DIFERENTE? 
 * [MÓDULO 2. Una pizarra... ¿diferente?](index1.md)
 * [CONTENIDOS](contenidos1.md)
@@ -42,13 +43,13 @@ ____
 	* [Entre todos](entre_todos.md)
 	* [La prensa en clase](la_prensa_en_clase.md)
 * [Para saber más... Actividades de ampliación](para_saber_ms_actividades_de_ampliacin.md)
-	* [Créditos](crditos1.md)
+
 ### MÓDULO 3: Materiales Curriculares 
 * [Módulo3. Materiales Curriculares](index2.md)
 * [Contenidos](contenidos2.md)
 * [U1.Materiales del Ite](u1materiales_del_ite.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos2.md)
-* [Créditos](crditos2.md)
+
 ### MÓDULO 4: AULAS VIRTUALES 
 * [Módulo 4. Aulas Virtuales](index3.md)
 * [Contenidos](contenidos3.md)
@@ -58,7 +59,7 @@ ____
 * [U4.E-DUCATIVA](u4educativa.md)
 * [U5:  MOODLE](u5__moodle.md)
 * [Ampliación de Contenidos](ampliacin_de_contenidos3.md)
-* [Créditos](crditos3.md)
+
 ### M5: Recursos en la red 
 * [Módulo5. Recursos en la red](index4.md)
 * [Contenidos](contenidos4.md)
@@ -66,7 +67,7 @@ ____
 * [U2. AGREGA](u2_agrega.md)
 * [U3. ITE](u3_ite.md)
 * [U4. EDUCARED y OTROS RECURSOS](u4_educared_y_otros_recursos.md)
-* [Créditos](crditos4.md)
+
 ### MÓDULO 6: INNOVACIÓN EN EL AULA 
 * [Módulo 6: INNOVACIÓN EN EL AULA](index5.md)
 * [Contenidos](contenidos5.md)
@@ -76,7 +77,7 @@ ____
 	* [U4.Aprendizaje colaborativo](u4aprendizaje_colaborativo.md)
 	* [U5. El modelo MIE-CAIT](u5_el_modelo_miecait.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
-* [Créditos](crditos5.md)
+
 ### M7: INTERNET EN EL AULA 
 * [MÓDULO 7: INTERNET EN EL AULA](index6.md)
 * [Contenidos](contenidos6.md)
@@ -87,7 +88,7 @@ ____
 	* [U5. Un lugar para compartir y colaborar](u5_un_lugar_para_compartir_y_colaborar.md)
 	* [U6. Redes Sociales](u6_redes_sociales.md)
 	* [Ampliación de contenidos](ampliacin_de_contenidos6.md)
-* [Créditos](crditos6.md)
+
 ### M8: UN AULA ABIERTA AL MUNDO 
 * [Módulo 8: UN AULA ABIERTA AL MUNDO](index7.md)
 * [Contenidos](contenidos7.md)
@@ -96,4 +97,7 @@ ____
 	* [U3. Blog](u3_blog.md)
 	* [U4. Pros y contras Wikis-Blogs](u4_pros_y_contras_wikisblogs.md)
 	* [Ampliación de contenidos](ampliacin_de_contenidos7.md)
-* [Créditos](crditos7.md)
+-->
+___
+
+* [Créditos](crditos.md)

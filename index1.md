@@ -1,14 +1,14 @@
 
-# MÓDULO 2. Una pizarra... ¿diferente?
+# Una pizarra... ¿diferente?
 
 La PDI se ha convertido en una herramienta muy presente dentro de las aulas. Al principio fue acogida con ansiedad e ilusión por unos, otros se la han encontrado sin más, el primer día de clase colgada en su aula. De cualquier forma tenemos ante nosotros una herramienta con gran potencialidad tanto en la comunicación como en sus posibilidades docentes. Pero... ¿cómo sé si la uso adecuadamente? ¿cómo empiezo a trabajar con ella? Seguramente deberé ser un experto informático....
 
 En primer lugar no todo o que se cuenta es cierto....
 
 
-![](img/capturadanueva.jpg)
+![2.1:De J.R. Olalla para el curso de Aularagon "Escuela 2.0"](img/capturadanueva.jpg)
 
-2.1:De J.R. Olalla para el curso de Aularagon "Escuela 2.0"
+
 
 ## Reflexión
 
@@ -29,9 +29,7 @@ Seguramente habrás oído algunas frases como éstas en charlas, ponencias o cur
 
 ¿Cuál es tu opinión sobre ellas?
 
-<script type="text/javascript">var feedback24_9text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-24_9" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 El autor opina:
 
@@ -51,6 +49,10 @@ El autor opina:
 
 **Con una PDI ya soy un profesor 2.0.** Para sufrir "dosceritis" hace falta algo más. Seremos un profesor 2.0 si nuestra actitud y nuestras prácticas en el aula lo son, Néstor Alonso lo explica mejor que nadie en este [gráfico](http://www.flickr.com/photos/nestoralonso/5264656126/). Con una PDI únicamente seremos profesores con mucha suerte y una fantástica herramienta en nuestra aula para el aprendizaje.
 
+
+%/accordion%
+
+
 ## Objetivos
 
 En este apartado enumeraremos la lista de objetivos a alcanzar.
@@ -61,11 +63,12 @@ En este apartado enumeraremos la lista de objetivos a alcanzar.
 - Descubrir las posibilidades didácticas de la PDI sin conocer ningún software específico.
 - Trabajar con algunos programas que permiten iniciarse en el trabajo con la PDI en el aula.
 
-## ParaSaberMas
 
-Vamos a utilizar un "**BLOG de Clase**" ( Ver "ANTES DE NADA! del Módulo 1 en Tareas) donde iremos colocando algunas de las actividades que realicéis.
+>**tip**
+>## ParaSaberMas
+>
+>Vamos a utilizar un "**BLOG de Clase**" ( Ver "ANTES DE NADA! del Módulo 1 en Tareas) donde iremos colocando algunas de las actividades que realicéis.
+>
+>Podría parece un contenido no propio de este curso, aunque su potencial para trabajarlo en el aula con la PDI es enorme y, precisamente lo vamos a usar para que, en el caso de que todavía no lo conozcas, descubras sus posibilidades educativas y de participación.
 
-Podría parece un contenido no propio de este curso, aunque su potencial para trabajarlo en el aula con la PDI es enorme y, precisamente lo vamos a usar para que, en el caso de que todavía no lo conozcas, descubras sus posibilidades educativas y de participación.
-
-Utilizaremos un Blog de Arablogs, así que si no estás familiarizad@ con su manejo, aquí tienes [este artículo](http://www.catedu.es/facilytic/2013/10/16/manuales-y-tutoriales-de-arablogs/) de la página FacilyTIC, que incluye un pequeño manual.
 

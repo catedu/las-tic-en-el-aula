@@ -3,6 +3,8 @@
 
 ## Reflexión
 
+Tenemos internet, pizarras digitales, vídeoproyectores, ordenadores... pero el cambio no está en los medios: somos nosotros los que hacemos que la escuela cambie y en tiempos de crisis, cuando se cuestiona hasta la necesidad de equipamiento, es necesario intentar ese cambio con los medios, escasos, disponibles.
+
 Por otra parte, las hojas de ruta marcan varias fases en la su implantación, que ya hemos comentado:
 
 - comienza el profesor,

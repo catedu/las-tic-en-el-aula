@@ -2,6 +2,7 @@
 
 * [Introducción](README.md)
 
+<!--
 ____
 ### 1. PROGRAMA A REALIZAR 
 * [PROGRAMA A REALIZAR](index0.md)
@@ -22,10 +23,10 @@ ____
 		* [Organización Técnica de un centro:Propuestas](organizacin_tcnica_de_un_centropropuestas.md)
 		* [Relación con las familias](relacin_con_las_familias.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
+-->
 
-<!--
 ### MÓDULO 2 : UNA PIZARRA... ¿DIFERENTE? 
-* [MÓDULO 2. Una pizarra... ¿diferente?](index1.md)
+* [Una pizarra... ¿diferente?](index1.md)
 * [CONTENIDOS](contenidos1.md)
 * [U1. Otras forma de "ENSEÑAR"](u1_otras_forma_de_ensear.md)
 * [U2.  LA PDI.Soporte para el profesorado](u2__la_pdisoporte_para_el_profesorado.md)
@@ -44,6 +45,8 @@ ____
 	* [La prensa en clase](la_prensa_en_clase.md)
 * [Para saber más... Actividades de ampliación](para_saber_ms_actividades_de_ampliacin.md)
 
+
+<!--
 ### MÓDULO 3: Materiales Curriculares 
 * [Módulo3. Materiales Curriculares](index2.md)
 * [Contenidos](contenidos2.md)

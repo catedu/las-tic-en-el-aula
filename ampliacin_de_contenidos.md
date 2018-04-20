@@ -9,18 +9,6 @@ Aquí tenemos una presentación que puede servir de colofón a esta unidad, en l
 
 <iframe frameborder="0" height="600" id="doc_40487" scrolling="no" src="//www.scribd.com/embeds/62638523/content?start_page=1&amp;view_mode=scroll&amp;access_key=key-19s8edvprxxek0n5qz5y&amp;show_recommendations=false" width="100%"></iframe>
 
-# ParaSaberMas
-
-Aquí vas a encontrar **un vídeo** del Ministrio de Educación sobre la PDI que nos ha parecido interesante y **un sencillo manual** para manejar **WinRAR** para comprimir archivos:
-
-- [  Vídeo resumen](http://www.catedu.es/facilytic/2013/10/10/minitutorial-de-la-pdi/) sobre lo que es la PDI y sus posibilidades didácticas, del Ministerio de Educación.
-
-
-![](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/pdi_.jpg)
-
- 
-
-<li>
-Envío de archivos comprimidos con **WinRAR**. Aquí tienes un [tutorial](http://www.catedu.es/facilytic/2013/10/19/comprimir-archivos-con-winrar/) para realizar este proceso con este programa.
-</li>
+Encontrarás más del autor en:
+* [http://www.peremarques.net/](http://www.peremarques.net/)
 

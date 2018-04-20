@@ -19,7 +19,7 @@ Cuando la interacción, que nos ofrece la PDI, facilite el aprendizaje de los co
  Nuestra metodología no va a cambiar de forma radical de un día para otro. La usaremos de forma gradual, ajustándonos a las necesidades del aula y a la seguridad que vayamos adquiriendo en su uso. Cada docente deberá decidir lo que hace con la PDI en su aula.
 
 
-![](img/capturadaM2.jpg)
+![2.6.Licencia: Algunos derechos reservados por luistorresotero. En http://www.flickr.com/photos/](img/capturadaM2.jpg)
 
 2.6.Licencia: [Algunos derechos reservados](http://creativecommons.org/licenses/by-sa/2.0/) por [luistorresotero](http://www.flickr.com/photos/67205343@N08/). En [http://www.flickr.com/photos/](http://www.flickr.com/photos/67205343@N08/6155171761/sizes/m/in/photostream/)
 
@@ -57,21 +57,13 @@ Presentamos, directamente, el software específico de las  principales PDI inst
 
 Pizarra Digital Interactiva
 
-- [Apuntes HITACHI Starboard 8.5](http://catedu.es/aularagonpowerpoint/ACTIVIDADES/ESCUELA20/Manual%20breve%20FX77.doc)
-- [Apuntes HITACHI Starboard 9.2](http://catedu.es/aularagonpowerpoint/ACTIVIDADES/ESCUELA20/ManualbreveFX779-2.doc) (4 páginas)
-- [Apuntes HITACHI Starboard 9.2](http://catedu.es/aularagonpowerpoint/ACTIVIDADES/ESCUELA20/hitachi35pag.pdf) un poco + extenso (35 paginas)
-- [Manual Hitachi Starboard 9.2](http://www.catedu.es/facilytic/wp-content/uploads/2013/04/MANUAL_PDI_HITACHI_V9.2.pdf) (muy completo)[<br/>](http://www.catedu.es/facilytic/wp-content/uploads/2013/04/MANUAL_PDI_HITACHI_V9.2.pdf)
-- [Listado alfabético de botones de Starboard](http://www.catedu.es/facilytic/wp-content/uploads/2013/06/Listado_alfabetico_botones_Starboard.pdf)
-- [Manual completísimo](http://www.catedu.es/facilytic/2013/06/11/manual-starboard-para-pdi-hitachi/) de la Ayuda del propio Programa Starboard 9.2
+- [Manual Hitachi Starboard 9.2](http://facilytic.catedu.es/wp-content/uploads/2013/04/MANUAL_PDI_HITACHI_V9.2.pdf) (muy completo)[<br/>](http://facilytic.catedu.es/wp-content/uploads/2013/04/MANUAL_PDI_HITACHI_V9.2.pdf)
+- [Listado alfabético de botones de Starboard](http://facilytic.catedu.es/wp-content/uploads/2013/06/Listado_alfabetico_botones_Starboard.pdf)
+- [Manual completísimo](http://facilytic.catedu.es/2013/06/11/manual-starboard-para-pdi-hitachi/) de la Ayuda del propio Programa Starboard 9.2
 
 Software
 
-<li>Software Hitachi versión 9.2A
-<ul>
-- [Para actualizar de la versión 8 a la 9.2A](http://starboard.hitachi-software.co.uk/SoftwareDownload/download/SBS9-2/SBS0920A_Win_DL.zip)
-- [Sofware Hitachi portable 9.2](https://docs.google.com/file/d/0B0GOBIfaA_SUakh2UmNiRUFjRXc/edit)
-- [Página de descarga oficial](http://www.charmexdocs.com/int/sf.html)
-- Manual de instalación [aquí](http://catedu.es/aularagonpowerpoint/ACTIVIDADES/ESCUELA20/instalacionhitachi92.pdf)<br/>(gracias a Justino Sebastián colaborador para Escuela 2.0 en el CPR 2 de Zaragoza)
-
-- [Uso didáctico.](http://platea.pntic.mec.es/jolall1/smart/)
+- Software Hitachi versión 9.2A
+	- [Página de descarga oficial](http://www.charmexdocs.com/int/sf.html)
+	- [Uso didáctico.](http://platea.pntic.mec.es/jolall1/smart/)
 

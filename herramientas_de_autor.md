@@ -14,7 +14,7 @@ Pese a mis reparos, y con el compromiso por parte de quien participa en este cur
 - [Cuestionarios ](http://www.catedu.es/arablogs/blog.php?id_blog=1145&amp;id_articulo=44038)realizados con servicios web 2.0 que ofrecen sencillez y rapidez además de la posibilidad de embeberlos en nuestras wikis o blogs.
 - En  principio puede parecer que **las líneas del tiempo** son unas herramientas ideales para Historia, y así es, pero su aplicación va mucho más allá: podríamos decir que se trata de unas herramientas ideales para las historias, pues cualquier proceso que tenga un desarrollo cronológico cabe en una línea del tiempo. De esta forma puede representarse una narración literaria, el crecimiento de una planta desde que sembramos la semilla en una maceta, el proceso para crear un puente levadizo con poleas en clase de tecnología, la excursión a Zaragoza…
 <li>
-Son muchos los servicios que prestan su arquitectura para elaborar líneas del tiempo. Proporcionamos un [Tutorial de TimeRime](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/Tutorial-TimeRime.pdf)
+Son muchos los servicios que prestan su arquitectura para elaborar líneas del tiempo. Proporcionamos un [Tutorial de TimeRime](http://facilytic.catedu.es/wp-content/uploads/2013/10/Tutorial-TimeRime.pdf)
 </li>
 <li>
 

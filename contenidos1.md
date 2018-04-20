@@ -1,8 +1,6 @@
 
 # CONTENIDOS
 
-##  
-
 Unidad 1: Otra forma de enseñar.
 
 Unidad 2: Soporte para el profesorado.

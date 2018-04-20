@@ -8,14 +8,14 @@ Los nuevos cursos de Moodle que [CATEDU](http://www.catedu.es/webcatedu/index
  
 
 
-![](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/moodle_catedu.jpg)
+![](http://facilytic.catedu.es/wp-content/uploads/2013/10/moodle_catedu.jpg)
 
-[Iniciación_Acceso](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/Manual_0_moodle252_Acceso.pdf)                    [Ajustes Básicos](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/Manual_1_moodle252_Ajustes.pdf)                  [Gestión de Usuario-Matriculación](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/Manual_2a_moodle252_Usuarios.pdf)
+[Iniciación_Acceso](http://facilytic.catedu.es/wp-content/uploads/2013/10/Manual_0_moodle252_Acceso.pdf)                    [Ajustes Básicos](http://facilytic.catedu.es/wp-content/uploads/2013/10/Manual_1_moodle252_Ajustes.pdf)                  [Gestión de Usuario-Matriculación](http://facilytic.catedu.es/wp-content/uploads/2013/10/Manual_2a_moodle252_Usuarios.pdf)
 
  
 
 
-![](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/moodle.jpg)
+![](http://facilytic.catedu.es/wp-content/uploads/2013/10/moodle.jpg)
 
  
 

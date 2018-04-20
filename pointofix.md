@@ -1,44 +1,44 @@
 
 # Pointofix
 
-##   Pointofix
-
-
 ![](img/capturada17_2.jpg)
 
+Se trata de un programa portable (no requiere instalación) y gratuito (sólo para entornos Windows), que genera una barra de herramientas básicas con las que poder interactuar con todo lo que aparece en la pantalla: documento, vídeo, imagen, internet,....
 
-![](img/capturada18_2.jpg)
-
-1.18. Captura pantalla
+![1.18. Captura pantalla](img/capturada18_2.jpg)
 
 Aunque no ofrece muchas prestaciones avanzadas si que puede ser un buen referente para empezar a trabajar de manera diferente con la PDI en el aula. Puede servir para perder el miedo y practicar desde cualquier PC ya que se puede llevar en el lápiz de memoria.
 
-Página de referencia y ayuda:<a>http://www.pointofix.de/hilfe_es.php</a>
+Página de referencia y ayuda: http://www.pointofix.de/hilfe_es.php
 
 ## Descarga del programa
 
 Descarga versión portable en español:
 
-<li>En la página [http://www.intercambiosvirtuales.org/portables/pointofix-multilenguaje-espanol-portable-realiza-anotaciones-sobre-su-escritorio](http://www.intercambiosvirtuales.org/portables/pointofix-multilenguaje-espanol-portable-realiza-anotaciones-sobre-su-escritorio)
-<ul>
-- Por ejemlo en el enlace de [MEGA ](https://mega.co.nz/#!0ZUQwRBQ!65qvMnPwR1JMdcY1ZgYoVnSYMClTyUj9G6mjzrtNAtU)se descarga un fichero zip cuya contraseña es** www.intercambiosvirtuales.org**
+* En la página [http://www.intercambiosvirtuales.org/portables/pointofix-multilenguaje-espanol-portable-realiza-anotaciones-sobre-su-escritorio](http://www.intercambiosvirtuales.org/portables/pointofix-multilenguaje-espanol-portable-realiza-anotaciones-sobre-su-escritorio)
+	- Por ejemlo en el enlace de [MEGA ](https://mega.co.nz/#!0ZUQwRBQ!65qvMnPwR1JMdcY1ZgYoVnSYMClTyUj9G6mjzrtNAtU)se descarga un fichero zip cuya contraseña es **www.intercambiosvirtuales.org**
 
 ## ¿Cómo funciona?
 
-![](img/capturada19_2.jpg)
 
-![](img/capturada21.jpg)
+Al clicar sobre el icono del programa (ya hemos dicho que trabajaremos con una versión portable que no requiere instalación) se abre en nuestra pantalla un rectángulo flotante que estará presente abramos el programa que abramos, incluso si navegamos por internet
+
+![1.19. Captura pantalla](img/capturada19_2.jpg)
+
+Al dar en Inicio, se le superpone una barra flotante de herramientas, que son las que ofrece el programa. Al activarla, hay que seleccionar una u otra de sus herramientas, que permacecerán activas (es decir no dejará abrir otro programa o navegar por internet) hasta que pulsemos en Fin. Al finalizar se borra todolo hecho sobre la pantalla.
+
+![1.20. Captura pantalla](img/capturada21.jpg)
 
 ¿Qué nos permite hacer?
 
 Como se ha comentado,al activarlo, el programa presenta su **barra de herramientas** que se puede mover de posición (también aparece si está activado y damos con el botón derecho del ratón en cualquier punto de la pantalla).
 
 
-![](img/capturada22.jpg)
+![1.21. Captura pantalla](img/capturada22.jpg)
 
-1.21. Captura pantalla
+Mención especial merece la herramienta Hoja  (Leeres Blatt), además de por sus posibilidades, porque no   aparece traducida del alemán original y puede crear confusión.
 
-![](img/capturada22_2.jpg)
+![1.22. Captura pantalla](img/capturada22_2.jpg)
 
 Posibilidades que nos ofrece.
 
@@ -56,18 +56,16 @@ Posibilidades que nos ofrece.
 
 ..... Y todo aquello que se te pueda ocurrir.
 
-# ParaSaberMas
-
-Un programa similar a Pointofix es **ScreenMarker**. [(descarga aquí)](http://www.screenmarker.com/)
-
-Se trata de otro programa gratis y portable que es un poco más limitado que Pointofix, con una barra de herramientas más austera y sin traducción al castellano (está en ingés).
-
-
-![](img/capturada23.jpg)
-
-1.23. Captura pantalla
-
-Su funcionamiento es similar. Una vez iniciado el programa, aparece esta barra de herramientas que permite, en este caso sólo dibujar o añadir formas, sobre la que haya en la pantalla.
-
-Siendo consciente de sus limitaciones, es otra opción a tener en cuenta.
+>**tip**
+># ParaSaberMas
+>
+>Un programa similar a Pointofix es **ScreenMarker**. [(descarga aquí)](http://www.screenmarker.com/)
+>
+>Se trata de otro programa gratis y portable que es un poco más limitado que Pointofix, con una barra de herramientas más austera y sin traducción al castellano (está en ingés).
+>
+>![1.23. Captura pantalla](img/capturada23.jpg)
+>
+>Su funcionamiento es similar. Una vez iniciado el programa, aparece esta barra de herramientas que permite, en este caso sólo dibujar o añadir formas, sobre la que haya en la pantalla.
+>
+>Siendo consciente de sus limitaciones, es otra opción a tener en cuenta.
 

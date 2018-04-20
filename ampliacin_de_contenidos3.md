@@ -14,7 +14,7 @@ Para ver el manual de uso de este programa [( Pincha aquí)](http://dl.dropboxus
 # Proyectos en grupo con Team Box
 
 
-![](http://www.catedu.es/facilytic/wp-content/uploads/2013/11/teambox.png)
+![](http://facilytic.catedu.es/wp-content/uploads/2013/11/teambox.png)
 
 4.51.Captura pantalla.
 
@@ -28,7 +28,7 @@ Para pasar grupos creados en E-ducativa a Moodle, habrá que **exportar** esto
 
 Adjuntamos dos sencillos manuales con estos procesos:
 
-[Exportación de educativa a SCORM](http://www.catedu.es/facilytic/wp-content/uploads/2013/06/exportar-educativa-SCORM.pdf)
+[Exportación de educativa a SCORM](http://facilytic.catedu.es/wp-content/uploads/2013/06/exportar-educativa-SCORM.pdf)
 
-[Importación de SCORM en Moodle](http://www.catedu.es/facilytic/wp-content/uploads/2013/06/importar-SCORM-moodle.pdf)
+[Importación de SCORM en Moodle](http://facilytic.catedu.es/wp-content/uploads/2013/06/importar-SCORM-moodle.pdf)
 

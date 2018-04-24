@@ -3,13 +3,11 @@
 
 Los contenidos de este Módulo son los siguientes:
 
-Unidad 1: La intranet
+Unidad 1: Moodle
 
-Unidad 2: Pupitre
+Unidad 2: OpenEDX
 
-Unidad 3: VNC-TEKLO
+Unidad 3: Edmodo
 
-Unidad 4: E-DUCATIVA
-
-Unidad 5:  Moodle.
+Unidad 4: Google Classroom
 

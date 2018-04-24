@@ -23,7 +23,7 @@ ____
 		* [Organización Técnica de un centro:Propuestas](organizacin_tcnica_de_un_centropropuestas.md)
 		* [Relación con las familias](relacin_con_las_familias.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
--->
+
 
 ### MÓDULO 2 : UNA PIZARRA... ¿DIFERENTE? 
 * [Una pizarra... ¿diferente?](index1.md)
@@ -46,22 +46,23 @@ ____
 * [Para saber más... Actividades de ampliación](para_saber_ms_actividades_de_ampliacin.md)
 
 
-<!--
-### MÓDULO 3: Materiales Curriculares 
+
+### 3. Materiales Curriculares 
 * [Módulo3. Materiales Curriculares](index2.md)
 * [Contenidos](contenidos2.md)
 * [U1.Materiales del Ite](u1materiales_del_ite.md)
-* [Ampliación de contenidos](ampliacin_de_contenidos2.md)
 
-### MÓDULO 4: AULAS VIRTUALES 
+
+
+### 4. AULAS VIRTUALES 
 * [Módulo 4. Aulas Virtuales](index3.md)
 * [Contenidos](contenidos3.md)
-* [U1. La Intranet](u1_la_intranet.md)
-* [U2.Pupitre](u2pupitre.md)
-* [U3.VNC-TEKLO](u3vncteklo.md)
-* [U4.E-DUCATIVA](u4educativa.md)
-* [U5:  MOODLE](u5__moodle.md)
-* [Ampliación de Contenidos](ampliacin_de_contenidos3.md)
+* [1. Moodle](moodle.md)
+* [2. Open edX](openedx.md)
+* [3. Edmodo](edmodo.md)
+* [4. Google Classroom](google-classroom.md)
+-->
+
 
 ### M5: Recursos en la red 
 * [Módulo5. Recursos en la red](index4.md)
@@ -71,6 +72,7 @@ ____
 * [U3. ITE](u3_ite.md)
 * [U4. EDUCARED y OTROS RECURSOS](u4_educared_y_otros_recursos.md)
 
+<!--
 ### MÓDULO 6: INNOVACIÓN EN EL AULA 
 * [Módulo 6: INNOVACIÓN EN EL AULA](index5.md)
 * [Contenidos](contenidos5.md)

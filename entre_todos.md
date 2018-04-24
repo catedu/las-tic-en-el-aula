@@ -24,18 +24,17 @@ La idea es que podamos dedicar más esfuerzo a su participación, a la cooperaci
 - Los elementos interactivos de las páginas web educativas están pensados en muchos casos para este tipo de trabajo, tanto en el aula como en casa [►](http://acacia.pntic.mec.es/agip0002/auro/inicio.html).
 
 
-![](capturadaeroski.jpg)
+![2.27.Captura pantalla.](img/capturadaeroski.jpg)
 
-2.27.Captura pantalla. 
 
-**Jugamos en grupo<br/>**
+**Jugamos en grupo**
 
 - Las actividades que podemos plantear a través de la pizarra digital pueden tomar la forma de juegos que vamos superando entre todos.
 - Podemos recurrir a juegos ya existentes en páginas interactivas de Internet. La actividad deberá plantear una cuestión a resolver por los alumnos. Nosotros tendremos que decidir el orden de intervención y la dinámica de trabajo del grupo [►](http://www.arcadetown.com/3rdworldfarmer/gameonline.asp).
 - Los juegos pueden ser de cualquier CD educativo de los que tenemos en los centros y la situación variará muy poco respecto a la anterior.
 - Pero también podemos fabricar nuestro juego a propósito de lo que queremos que trabajen. Supondrán un diseño, un planteamiento de necesidades, una elaboración y un control de efectividad final, antes de que demos por terminada la tarea y podamos "jugar".
 
- 
+![2.28 - Captura pantalla](img/capturadaibercaja.jpg)
 
 ## Reflexión
 
@@ -50,9 +49,10 @@ La web **[cuida lo que comes, te sentará genial](http://obesidadinfantil.consu
 - Si tienen internet en casa enseñarán **[cuida lo que comes, te sentará genial](http://obesidadinfantil.consumer.es/web/es/10-14/) **a la familia, tanto a padres como a hermanos más pequeños y harán lo mismo con la pirámide**[Naos](http://www.naos.aesan.msc.es/csym/juegos/juegoPiramide.html)**. También jugarán a ser detectives de la **[AFD](http://members.kaiserpermanente.org/kpweb/richmedia/feature/amazingFoodDetective/index.htm)**.
 - De forma similar podemos proceder con la sección de [14 a 18 años](http://obesidadinfantil.consumer.es/web/es/14-18/).
 
-<script type="text/javascript">var feedback53_9text = "Mostrar retroalimentación";</script><input class="feedbackbutton" name="toggle-feedback-53_9" onclick="$exe.toggleFeedback(this,true);return false" type="button" value="Mostrar retroalimentación"/>
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Este modelo tiene aplicación segura a tu área; busca alguno y planifica la tarea a realizar.
+
+%/accordion%
+
 

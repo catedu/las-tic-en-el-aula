@@ -16,33 +16,6 @@ Disponer de una buena cartera de materiales curriculares digitales es un buen pu
 **Materiales del [INTEF](http://www.ite.educacion.es/es/intef)**
 
 
-![](capturadaintef.jpg)
+![3.1. Captura pantalla.](img/capturadaintef.jpg)
 
-3.1. Captura pantalla.
-
-- Tercer ciclo de primaria
-
- 
-
- 
-
-
-![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/primaria.jpg)
-
- 
-
-3.2. Captura pantalla.
-
-- [Secundaria](http://e-ducativa.catedu.es/44700165/sitio/index.cgi?wid_item=118&amp;wid_seccion=22)
-
-[Secundaria](http://e-ducativa.catedu.es/44700165/sitio/index.cgi?wid_item=118&amp;wid_seccion=22)
-
-
-![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/banner_asignaturas.jpg)
-
- 
-
-3.3. Captura pantalla.
-
- 
-
+**Materiales de [CATEDU](http://facilitamos.catedu.es/)**

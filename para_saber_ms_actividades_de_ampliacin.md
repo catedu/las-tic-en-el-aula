@@ -12,13 +12,7 @@ Seguro que buscando en Internet encuentras muchas más posibilidades, lo que aqu
 - [Nuestra amiga la PDI](http://ciberespiral.org/bits/21/nuestra-amiga-la-pdi-en-el-aula-de-infantil/):
 
 
-![](capturadaeducalandia.jpg)
-
- 
-
- 
-
-2.32.Captura pantalla.
+![2.32.Captura pantalla.](img/capturadaeducalandia.jpg)
 
 **Primaria:**
 
@@ -26,27 +20,24 @@ Seguro que buscando en Internet encuentras muchas más posibilidades, lo que aqu
 - [Recursos favoritos para PDI](http://www.mister-wong.es/user/RecursosPrimaria/pdi/)
 - Curalia (fundación telefónica) [Guías T-Pak](http://curalia.fundaciontelefonica.com/grupos/guias-metodologicas-tpack-areas-instrumentales-para-primaria-y-secundaria/guias/):
 
-
-![](capturadatelefonica.jpg)
-
-2.33.Captura pantalla.
+![2.33.Captura pantalla.](img/capturadatelefonica.jpg)
 
 **Lengua y literatura:**
 
-- Abrapalabra [►](http://www.catedu.es/abrapalabra/)
-- Escena (recursos relacionados con el teatro) [►](http://www.catedu.es/escena/)
+- Abrapalabra [►](http://abrapalabra.catedu.es)
+- Escena (recursos relacionados con el teatro) [►](http://escena.catedu.es)
 
 **Ciencias Sociales:**
 
-- La ciudad (Geografía ESO) [►](http://catedu.es/materialesccss/)
-- Aragón romano [►](http://catedu.es/aragonromano/)
-- El territorio [►](http://catedu.es/el_paisaje/)
+- La ciudad (Geografía ESO) [►](http://materialesccss.catedu.es)
+- Aragón romano [►](http://aragonromano.catedu.es)
+- El territorio [►](http://el_paisaje.catedu.es)
 - ARTECREHA [►](http://www.artecreha.com/)
-- Cuadernos de Campo [►](http://www.catedu.es/cuaderno_campo/)
+- Cuadernos de Campo [►](http://cuaderno_campo.catedu.es)
 
 **Ciencias, Física y Química:**
 
-- Cienciaragón [►](http://catedu.es/cienciaragon/)
+- Cienciaragón [►](http://cienciaragon.catedu.es)
 - Las mil caras de la Ciencia [►](http://www.lasmilcarasdelaciencia.com/)
 
 **Tecnología:**
@@ -55,25 +46,24 @@ Seguro que buscando en Internet encuentras muchas más posibilidades, lo que aqu
 
 **Matemáticas:**
 
-- Matemáticas en tu mundo [►](http://catedu.es/matematicas_mundo/)
+- Matemáticas en tu mundo [►](http://matematicas_mundo.catedu.es)
 - Matemática vital [►](http://matematicavital.com/)
-- Calendas [►](http://catedu.es/calendas/)
+- Calendas [►](http://calendas.catedu.es)
 
-**Economía****:**
+**Economía**:
 
 - Ecomur [►](http://www.ecomur.com/)
 
 
-![](capturadaecono.jpg)
+![2.39. Captura pantalla.](img/capturadaecono.jpg)
 
-2.39. Captura pantalla.
 
 **Transversales:**
 
-- Portal de convivencia en Aragón [►](http://www.catedu.es/convivencia/)
-- Escuela aragonesa de consumo [►](http://catedu.es/consumo)Prevención de drogodependencias [►](http://catedu.es/drogodependencias)
+- Portal de convivencia en Aragón [►](http://convivencia.catedu.es/)
+- Escuela aragonesa de consumo [►](http://consumo.catedu.es)Prevención de drogodependencias [►](http://drogodependencias.catedu.es)
 
 **Filosofía:**
 
-- Filosofiartes [►](http://www.catedu.es/filosofiartes/)
+- Filosofiartes [►](http://filosofiartes.catedu.es)
 

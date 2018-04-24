@@ -7,8 +7,6 @@ Hasta hace muy poco la creación de páginas web exigía el aprendizaje de compl
 
 - Existen numerosas alternativas para crear **blogs **gratuitos como [Blogger](https://www.blogger.com/start?hl=es), aunque el [CATEDU](http://catedu.es/webcatedu/)tiene un servicio excelente, se trata de [ARABLOGS](http://www.catedu.es/arablogs/) y puede solicitarse entregando un [formulario](http://www.catedu.es/arablogs/docs/solicitud.doc)al CPR de referencia.
 - El servidor de **wikis **más conocido es [Wikispaces](http://www.wikispaces.com/site/for/teachers), es sencillo de gestionar y dispone de un perfil específico para educación que no muestra publicidad.
-- Para crear webquest recomendamos el servicio **arawebquest **de edición que ofrece el **[CATEDU](http://catedu.es/crear_wq/z_usuarios/ingreso_usuarios.php)**.
-- También el [CATEDU ](http://www.catedu.es/)dispone, en su catálogo de servicios, la posibilidad de [crear libros digitales](http://catedu.es/webcatedu/index.php?option=com_content&amp;view=article&amp;id=157) mediante una aplicación propia y de solicitar un periódico digital con la herramienta[SPIP](http://www.catedu.es/webcatedu/index.php?option=com_content&amp;view=article&amp;id=64).
 
 Veamos algunos ejemplos, aunque no pretendemos hacer un recorrido por todas las asignaturas sino dar una visión de buenas prácticas que puedan servir como modelo:
 
@@ -16,16 +14,12 @@ Veamos algunos ejemplos, aunque no pretendemos hacer un recorrido por todas las 
 
 Los [blogs de Sociales](http://www.iestiemposmodernos.com/losblogsdesociales/), del IES Tiempos Modernos, de Zaragoza. Premiado por el ISFTIC en 2009.
 
- 
 
 **Ejemplo de una wiki de Matemáticas**
 
 [Edumates](http://edumates.wikispaces.com/), un portal de largo recorrido.
 
-
-![](capturadamates.jpg)
-
-2.16.Captura pantalla.
+![2.16.Captura pantalla.](img/capturadamates.jpg)
 
 **Web Quest: [Una vuelta a las Mates en 80 días](http://salonsowebquest.blogspot.com/)**
 
@@ -48,10 +42,15 @@ Los objetivos que se persiguen con ellas**:**
 
 **Apartados de una [WebQuest](http://platea.pntic.mec.es/~erodri1/TALLER.htm#reglas):**
 
-<li>**Introducción **con dos objetivos:
-<ul>
-- Orientar al alumno sobre lo que se va a encontrar.
-- Incrementar su interés y motivación por la actividad
+*   **Introducción **con dos objetivos:
+    *   Orientar al alumno sobre lo que se va a encontrar.
+    *   Incrementar su interés y motivación por la actividad
+*   **Tarea**: En éste apartado se proporciona al alumno una descripción de qué tendrá que haber hecho al finalizar el ejercicio. Puede ser un conjunto de páginas Web, una presentación con Power Point, un dossier o, tal vez, una presentación verbal en la que pueda ser capaz de explicar un tema específico.
+*   **Proceso**: se sugieren los pasos que los alumnos deben seguir para completar la tarea y que pueden incluir estrategias para dividirlas en subtareas (creación de subgrupos, trabajo de cada uno...), descripción de los papeles o perspectivas que los alumnos deben adoptar... El profesor puede también añadir orientaciones sobre el aprendizaje o sobre procesos de dinámica de grupos tales como la forma de llevar una sesión de tormenta de ideas... La descripción del proceso debe ser breve y clara.
+*   **Recursos**: se proporciona una lista de páginas Web u otras fuentes, que el profesor ha localizado previamente y que ayudarán a los alumnos a realizar la tarea; la preselección de este tipo de recursos permite que los alumnos se centren en el tema en lugar de navegar por la red "sin rumbo".
+*   **Evaluación**: Dependiendo del nivel de los alumnos y del tipo de actividad se hará una descripción de lo que se va a evaluar y de cómo se hará. El sistema de creación del CATEDU se basa en la creación de **[rúbricas](http://www.eduteka.org/MatrizValoracion.php3)**.
+*   **Conclusiones**: Esta sección proporciona la oportunidad de resumir la experiencia, animar a la reflexión sobre el proceso y generalizar lo que se ha aprendido. No es una parte crítica de todo el conjunto, pero proporciona un broche a la actividad. Puede ser interesante, en ésta sección, sugerir preguntas que un profesor podría hacer en una discusión abierta con toda la clase.[![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/images/subir.gif)](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/ESTRUCTURA.htm)
+*   **Ficha Técnica**
 
 **Creación y ejemplos**
 
@@ -74,11 +73,8 @@ Algunos ejemplos (los escritos en negrita están realizados con el creador **ar
 - **Informática**: Diseñando una base de datos (Luz Armida Urtusuástegui Pérez) [►](http://www.catedu.es/crear_wq/wq/home/3773/index.html)
 - Algunas para primaria: **[nos alimentamos bien](https://sites.google.com/site/wqfuncionnutricion/home)**, **[conociendo a Van Gogh](http://diegoarroyo.wix.com/webquest-conociendo-a-van-gogh)**,
 - Muchos más ejemplos [►](http://www.aula21.net/tercera/listado.htm)
-- 
-- 
 - **Recursos para el área**
 
 [Clases de historia.com](http://www.claseshistoria.com/index.html) es un portal donde encontrar esquemas, textos, ejercicios interactivos, glosarios...
 
- 
-
+![2.19 - Captura de pantalla](img/capturadahistoria.jpg)

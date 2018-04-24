@@ -1,18 +1,17 @@
 
 # Tareas Digitales
 
-Una forma de favorecer el uso de los equipamientos TIC es presentar a nuestros alumnos las tareas en formato digital, así su realización se hará sobre el formato que nosotros les hemos propuesto. El aspecto final de nuestras propuestas digitales variará mucho dependiendo de nuestra formación previa y no debemos agobiarnos por querer realizar propuestas técnicamente complejas pues podemos comenzar utilizando herramientas informáticas ya conocidas, como el procesador de textos o las presentaciones, la posibilidad que nos ofrecen para insertar hipervínculos, imágenes, multimedia... puede ser suficiente para sugerir enlaces a distintos puntos de interés. Naturalmente, estos documentos digitales, además de ser proyectados en la PDI tienen que estar en posesión de nuestros alumnos, y para eso están la [****intranet****](http://www.catedu.es/intranetypupitre/index.php), edmodo, el correo electrónico...
+El proceso de ir incorporando tareas digitales para nuestros alumnos suele ir parejo a nuestro aprendizaje como docentes, habitualmente comenzamos con utilidades que son sencillas de manejar para nosotros, que vamos aprendiendo, encontrando, practicando en el seminario... Está muy bien como parte del camino, pero conviene no olvidar que no habremos llegado hasta que no asumamos el papel del alumnado como creador y no como mero sujeto pasivo de nuestras aportaciones.
+
+Una forma de favorecer el uso de los equipamientos TIC es presentar a nuestros alumnos las tareas en formato digital, así su realización se hará sobre el formato que nosotros les hemos propuesto. El aspecto final de nuestras propuestas digitales variará mucho dependiendo de nuestra formación previa y no debemos agobiarnos por querer realizar propuestas técnicamente complejas pues podemos comenzar utilizando herramientas informáticas ya conocidas, como el procesador de textos o las presentaciones, la posibilidad que nos ofrecen para insertar hipervínculos, imágenes, multimedia... puede ser suficiente para sugerir enlaces a distintos puntos de interés. Naturalmente, estos documentos digitales, además de ser proyectados en la PDI tienen que estar en posesión de nuestros alumnos, y para eso están la [**intranet**](http://www.catedu.es/intranetypupitre/index.php), edmodo, el correo electrónico...
 
 Si disponemos de una cuenta de [gmail ](https://www.google.com/accounts/ServiceLogin?service=mail&amp;passive=true&amp;rm=false&amp;continue=http%3A%2F%2Fmail.google.com%2Fmail%2F%3Fhl%3Des%26ui%3Dhtml%26zy%3Dl&amp;bsv=zpwhtygjntrz&amp;scc=1&amp;ltmpl=default&amp;ltmplcache=2&amp;hl=es)(el correo proporcionado por **Google**), tendremos acceso al servicio [Google docs](http://www.google.com/google-d-s/intl/es/tour1.html) y a **[Google](http://gdrive-blog.blogspot.com.es/)** [Drive](http://gdrive-blog.blogspot.com.es/), que permite la creación de documentos on-line de una forma muy similar y en un entorno más sencillo que el ofrecido por las suites ofimáticas que manejamos habitualmente y, además, ofrecen la posibilidad de compartirlos, tanto una vez realizados como en el momento de su creación, que puede ser colectiva. 
 
 También existen otras alternativas a estas cuentas...
 
- 
+![2.26.Captura pantalla.Imagen propia](img/capturadadrive.jpg)
 
-
-![](img/capturadadrive.jpg)
-
-2.26.Captura pantalla.Imagen propia[<br/>](http://www.flickr.com/photos/infocux/)
+[<br/>](http://www.flickr.com/photos/infocux/)
 
 También podemos subir al servidor de **Google **los archivos que hayamos realizado con procesadores de textos, hojas de cálculo o presentaciones en nuestro ordenador, ya que es compatible con numerosos formatos. De esta forma podemos poner a disposición de los alumnos y de otros compañeros la biblioteca de recursos que hemos ido acumulando a lo largo de nuestra vida docente. Estos archivos pueden pasar a formar parte de nuestro blog o nuestra wiki mediante vínculos.
 
@@ -24,16 +23,11 @@ Otra posibilidad es aventurarse en la creación de una [webquest ](http://www.
 
 En todo caso, las tareas que presentemos a nuestros alumnos deben de contemplar la posibilidad de que ellos hagan consultas en soportes informáticos e internet en busca de documentación, soluciones a cuestiones o situaciones problemáticas, datos concretos u opiniones.
 
-**Alumnos “expertos”<br/>**
+**Alumnos “expertos”**
 
-En algunos casos hay destrezas de los alumnos que no aprovechamos porque no sabemos que las tienen (o no queremos saberlo). Dejemos que sean ellos quienes nos demuestren lo que saben y pueden hacer y seguro que más de uno nos sorprende. Démosles la oportunidad de presentar y explicar sus trabajos en PowerPoint, en webs, en documentos de texto...[<br/>](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/ESCUELA2.0/resources/relieverios.ppt)
+En algunos casos hay destrezas de los alumnos que no aprovechamos porque no sabemos que las tienen (o no queremos saberlo). Dejemos que sean ellos quienes nos demuestren lo que saben y pueden hacer y seguro que más de uno nos sorprende. Démosles la oportunidad de presentar y explicar sus trabajos en PowerPoint, en webs, en documentos de texto...
 
 Buena parte del alumnado de las aulas integradas en el programa Escuela 2.0 tiene un nivel de formación en TIC elevado. Este conocimiento viene derivado del uso fuera y dentro de las aulas, y tiene tanta incidencia en los aspectos de hardware como de software.<br/><br/>La primera consecuencia que tiene esta realidad es que en las aulas se debe de sacar provecho educativo a las características de este alumnado. Esto se puede lograr de diferentes maneras como:
-
-
-![](http://www.aularagon.org/Files/UserFiles/File/ESCUELA2.0/grifo.jpg)
-
-2.27. Tomada del Curso Escuela 2.0. JR Olalla.
 
 Implicando a los alumnos (de forma individual, estructurada, rotatoria o como se considere más oportuno) en la utilización de los dispositivos del aula. Por ejemplo, estableciendo turnos semanales para la buena conservación de los dispositivos de aula o asegurando que el profesor tenga estos mismos dispositivos ya en marcha en el momento de comenzar las clases. Son los conocidos en algunos centros donde ya se usan estos procedimientos, como “alumnos expertos”.
 

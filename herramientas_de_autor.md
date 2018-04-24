@@ -13,30 +13,15 @@ Pese a mis reparos, y con el compromiso por parte de quien participa en este cur
 - [Ardora](http://webardora.net/index_cas.htm) [(Ejemplo ►](http://angarmegia.com/vidaprehistoria1.htm)).
 - [Cuestionarios ](http://www.catedu.es/arablogs/blog.php?id_blog=1145&amp;id_articulo=44038)realizados con servicios web 2.0 que ofrecen sencillez y rapidez además de la posibilidad de embeberlos en nuestras wikis o blogs.
 - En  principio puede parecer que **las líneas del tiempo** son unas herramientas ideales para Historia, y así es, pero su aplicación va mucho más allá: podríamos decir que se trata de unas herramientas ideales para las historias, pues cualquier proceso que tenga un desarrollo cronológico cabe en una línea del tiempo. De esta forma puede representarse una narración literaria, el crecimiento de una planta desde que sembramos la semilla en una maceta, el proceso para crear un puente levadizo con poleas en clase de tecnología, la excursión a Zaragoza…
-<li>
-Son muchos los servicios que prestan su arquitectura para elaborar líneas del tiempo. Proporcionamos un [Tutorial de TimeRime](http://facilytic.catedu.es/wp-content/uploads/2013/10/Tutorial-TimeRime.pdf)
-</li>
-<li>
+* Son muchos los servicios que prestan su arquitectura para elaborar líneas del tiempo. Proporcionamos un [Tutorial de TimeRime](http://facilytic.catedu.es/wp-content/uploads/2013/10/Tutorial-TimeRime.pdf)
 
-![](Tutorial.jpg)
-</li>
-<li>
-<table border="0" style="height: 564px; width: 541px;">
-<tbody>
-<tr>
-<td>
- 
+![](Tutorial.jpg) 
 
-![](capturadaministerio.jpg)
- 
-Edilim, tutoriales de uso 
-</td>
-<td>
- 
- 
- 
-Otros Minitutoriales sobre sus posibilidades:- [Presentación](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/edilim_demo/edilim_demo.htm)
- 
+Otros Minitutoriales sobre sus posibilidades:
+
+![Edilim, tutoriales de uso](img/capturadaministerio.jpg)
+
+- [Presentación](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/edilim_demo/edilim_demo.htm)
 - [Obtención e instalación](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/OIedilim/OIedilim_demo.htm).
 - [Crear un Libro](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/edilim_crear_libro/edilim_crear_libro_demo.htm).
 - [Crear actividad de clasificación](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/edilimclasifica/edilimclasifica_demo.htm).
@@ -48,25 +33,14 @@ Otros Minitutoriales sobre sus posibilidades:- [Presentación](http://www.aular
 - [Crear un panel](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/edilimpanel_demo/edilimpanel_demo.htm).
 - [Actividades de parejas](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/edilimparejas/edilimparejas_demo.htm).
 - [Crear Puzzle](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/edilimpuzzle/edilimpuzzle_demo.htm).
-</td>
-</tr>
-<tr>
-| 
-| 
-</tr>
-</tbody>
-</table>
-</li>
 
 Realizar preguntas sobre la explicación es una actividad habitual en el aula con la que seguiremos aunque utilicemos la pizarra digital interactiva; los alumnos, como siempre, pueden responder levantando la mano, desde su mesa; también puede salir a la pizarra, tomar la tiza digital y realizar las explicaciones oportunas; del mismo modo es posible, como veremos más adelante, que responda desde su propio ordenador, ya que podemos administrar un visor que muestre en la pizarra las pantallas de nuestros alumnos.
 
-<br/>También es habitual ir realizando un esquema en el encerado; lo mismo puede ocurrir en nuestra pizarra interactiva en la que, no sólo podemos realizarlo manualmente, sino que es posible utilizar alguna de las herramientas web 2.0 que están disponibles (con la ventaja de que nuestro esquema gozará de la interactividad que permita la herramienta y de la que nosotros le sepamos o queramos dotar). Lo bueno es que nuestros alumnos pueden llevarse la pizarra a casa, obteniendo una imagen del esquema, problema si es manuscrito... o accediendo a la dirección del servicio que hemos usado para hacerlo. La mayoría de estos servicios permiten interactividad, bien por invitación bien por registro de alta, por lo tanto, y esto es lo mejor, nuestros alumnos pueden colaborar con nosotros y entre si a la hora de realizarlo a la vez que en la pizarra proyectada se va viendo el resultado final.er levantando la mano, desde su mesa; también puede salir a la pizarra, tomar la tiza digital y realizar las explicaciones oportunas; del mismo modo es posible, como veremos más adelante, que responda desde su propio ordenador, ya que podemos administrar un visor que muestre en la pizarra las pantallas de nuestros alumnos.
+También es habitual ir realizando un esquema en el encerado; lo mismo puede ocurrir en nuestra pizarra interactiva en la que, no sólo podemos realizarlo manualmente, sino que es posible utilizar alguna de las herramientas web 2.0 que están disponibles (con la ventaja de que nuestro esquema gozará de la interactividad que permita la herramienta y de la que nosotros le sepamos o queramos dotar). Lo bueno es que nuestros alumnos pueden llevarse la pizarra a casa, obteniendo una imagen del esquema, problema si es manuscrito... o accediendo a la dirección del servicio que hemos usado para hacerlo. La mayoría de estos servicios permiten interactividad, bien por invitación bien por registro de alta, por lo tanto, y esto es lo mejor, nuestros alumnos pueden colaborar con nosotros y entre si a la hora de realizarlo a la vez que en la pizarra proyectada se va viendo el resultado final.er levantando la mano, desde su mesa; también puede salir a la pizarra, tomar la tiza digital y realizar las explicaciones oportunas; del mismo modo es posible, como veremos más adelante, que responda desde su propio ordenador, ya que podemos administrar un visor que muestre en la pizarra las pantallas de nuestros alumnos.
 
 - Algunos como [CPMAP ](http://cmap.ihmc.us/conceptmap.html)o [FREE MIND](http://freemind.sourceforge.net/wiki/index.php/Main_Page) es necesario descargarlos y son muy conocidos entre el profesorado. Otros son muy sencillos de manejar, como [Kidspiration](http://cf.inspiration.com/espanol/index.cfm?fuseaction=products.kidspiration) y pese a que su web dice que está indicado para alumnos hasta 10 años, lo han utilizado alumnos y docentes de secundaria con éxito.
-<ul>
 
-![](img/capturadacamp.jpg)
-- Fig 2.12. Captura pantalla
+![2.12. Captura pantalla](img/capturadacamp.jpg) 
 
 La web Cuaderno intercultural, dispone de un apartado específico con una amplia recopilación de enlaces a generadores online de material educativo. Los enlaces están bien clasificados en apartados como generadores de publicaciones, webquest, formularios, vídeos, cómics y hasta un total de quince bloques.
 

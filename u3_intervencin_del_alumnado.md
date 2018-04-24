@@ -3,9 +3,3 @@
 
 Integrar las TIC en el aula implica la aceptación de un hecho que, si bien es incuestionable, no siempre se ve plasmado en la vida de las aulas: los alumnos y alumnas son, no los destinatarios, sino los verdaderos protagonistas del proceso educativo. Aunque la cotidianidad se empeñe en demostrarnos lo contario y las aulas parece que miran al profesor, lo cierto es que están orientadas hacia un escenario educativo desde el que pueden actuar los docentes, los medios y, desde luego, los propios alumnos. Nuestro protagonismo en ese escenario, basado en modelos magistrales, ha restado importancia a las explicaciones de los alumnos y a su capacidad para enseñar lo aprendido. Habitualmente sus trabajos van dirigidos al docente quien, con un bolígrafo rojo, corrige y califica, sin embargo, en el mundo real, las investigaciones y los textos creativos se escriben para ser explicados o contados. Si el aula ha de parecerse a ese mundo real para el que, teóricamente, prepara el sistema educativo, la situación ideal sería que los alumnos presenten sus investigaciones al resto de los compañeros, compartan sus conclusiones con otras aulas o cuenten sus creaciones a sus iguales, siempre disponiendo de los mismos medios y recursos que nosotros, los docentes.
 
- 
-
- 
-
- Fig 2.20 . Tomada de Escuela 2.0.J R Olalla
-

@@ -61,28 +61,29 @@ ____
 * [2. Open edX](openedx.md)
 * [3. Edmodo](edmodo.md)
 * [4. Google Classroom](google-classroom.md)
--->
 
 
-### M5: Recursos en la red 
-* [Módulo5. Recursos en la red](index4.md)
+
+### 5. Recursos en la red 
+* [Recursos en la red](index4.md)
 * [Contenidos](contenidos4.md)
 * [U1. CATEDU](u1_catedu.md)
 * [U2. AGREGA](u2_agrega.md)
-* [U3. ITE](u3_ite.md)
-* [U4. EDUCARED y OTROS RECURSOS](u4_educared_y_otros_recursos.md)
+* [U3. INTEF](u3_ite.md)
+* [U4. OTROS RECURSOS](u4_educared_y_otros_recursos.md)
+-->
 
-<!--
-### MÓDULO 6: INNOVACIÓN EN EL AULA 
-* [Módulo 6: INNOVACIÓN EN EL AULA](index5.md)
+### 6. INNOVACIÓN EN EL AULA 
+* [INNOVACIÓN EN EL AULA](index5.md)
 * [Contenidos](contenidos5.md)
 	* [U1. Competencias básicas](u1_competencias_bsicas.md)
 	* [U2. Constructivismo y TIC](u2_constructivismo_y_tic.md)
 	* [U3. Proyectos de trabajo](u3_proyectos_de_trabajo.md)
-	* [U4.Aprendizaje colaborativo](u4aprendizaje_colaborativo.md)
+	* [U4. Aprendizaje colaborativo](u4aprendizaje_colaborativo.md)
 	* [U5. El modelo MIE-CAIT](u5_el_modelo_miecait.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
 
+<!--
 ### M7: INTERNET EN EL AULA 
 * [MÓDULO 7: INTERNET EN EL AULA](index6.md)
 * [Contenidos](contenidos6.md)

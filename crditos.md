@@ -1,6 +1,14 @@
 # Créditos
 
-Autor: Ricardo Civera Marín
+### Autor:
+
+Ricardo Civera Marín
+
+### Colaboradores:
+
+{% for collaborator in book.collaborators %}
+* {{collaborator.name}} en: {{collaborator.edited}}
+{% endfor %}
 
 ___
 

@@ -10,15 +10,14 @@ Cualquier documento habitual en las aulas, un texto, un pdf, una presentación d
 
 Pero hay otros muchos servicios:
 
-- Crear [avatares ](http://www.catedu.es/arablogs/blog.php?id_blog=1145&amp;id_articulo=44050)para que hablen por nosotros en el correo, las redes sociales o los blogs permitirá dejar mensajes de voz para que otros los escuchen o configurarlos con un aspecto similar al nuestro para convertirlos en nuestro **alter ego**
-- Los **cómics **son una excelente herramienta de expresión, sobre todo si hay un proceso de planificación previo: historia, escenario, personajes, guión...Y podemos escribir todo tipo de textos, desde historias hasta postulados y teoremas.
-- Aunque los [cuestionarios](http://www.catedu.es/arablogs/blog.php?id_blog=1145&amp;id_articulo=44130) los relacionamos (y los empleamos) con las pruebas objetivas, ofrecen un gran abanico de posibilidades.
-
+- Crear avatares para que hablen por nosotros en el correo, las redes sociales o los blogs permitirá dejar mensajes de voz para que otros los escuchen o configurarlos con un aspecto similar al nuestro para convertirlos en nuestro **alter ego**
+- Los **cómics** son una excelente herramienta de expresión, sobre todo si hay un proceso de planificación previo: historia, escenario, personajes, guión...Y podemos escribir todo tipo de textos, desde historias hasta postulados y teoremas.
+- Aunque los [cuestionarios](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/interfaz-de-formularios-de-google.html) los relacionamos (y los empleamos) con las pruebas objetivas, ofrecen un gran abanico de posibilidades.
 - Una imagen vale más que mil palabras. Crear [álbumes de imágenes comentadas](http://jr20.mifotoblog.com/) puede ser muy útil para representar visualmente las explicaciones.
-- También las r[epresentaciones gráficas](http://www.catedu.es/arablogs/blog.php?id_blog=1145&amp;id_articulo=44092) ilustran las investigaciones y explicaciones.
-- Google maps es un excelente servicio que puede completarse con otros que nos permiten añadir[muchas posibilidades](http://www.catedu.es/arablogs/blog.php?id_blog=1145&amp;id_categoria=5990).
-- Otros mapas, los **conceptuales  **(puedes ver algunos en **[jR2.0](http://www.catedu.es/arablogs/blog.php?id_blog=1145)**)ayudarán a nuestras explicaciones y las de nuestros alumnos. Ver en [spicynodes](http://www.spicynodes.org/a/954d2766870d4b8177a0c19c5e193054)
-- [Presentaciones](http://www.catedu.es/arablogs/blog.php?id_blog=1145&amp;id_articulo=44075).
+- También las representaciones gráficas ilustran las investigaciones y explicaciones.
+- Google maps es un excelente servicio que puede completarse con otros que nos permiten añadir[muchas posibilidades](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/google-my-maps.html).
+- Otros mapas, los **conceptuales** ayudarán a nuestras explicaciones y las de nuestros alumnos. Ver en [spicynodes](http://www.spicynodes.org/a/954d2766870d4b8177a0c19c5e193054)
+- [Presentaciones](https://catedu.gitbooks.io/trabajo-colaborativo-con-google-drive/content/creando-una-presentacion.html).
 - [Puzles](http://www.imagechef.com/ic/es/poem/)
 
 - **Mensajes de voz** como éste grabado con [vocaroo](http://vocaroo.com/).

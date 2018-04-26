@@ -5,13 +5,17 @@ Los adolescentes usan habitualmente redes sociales, [Twitter ](http://twitter.
 
 Como suele ocurrir con otras aportaciones de la tecnología, el debate está abierto: opiniones a favor y en contra pululan por las salas de profesores, las reuniones de AMPAS, los blog educativos y las propias redes sociales, aunque lo cierto es que ni muchos docentes ni demasiados padres se han incorporado a estos ámbitos y muchos de los que ya son usuarios no se han planteado un uso educativo distinto que el meramente personal. Algunos delitos contra adolescentes en los que una red social ha sido la vía de contacto con el delincuente han saltado a los medios, sobre todo, a los espectáculos televisivos, y se ha extendido la voz de alarma entre las familias, lo que no beneficia en nada su uso en el aula.
 
-Según la **Wikipedia**, u**na red social es una estructura social que se puede representar en forma de uno o varios grafos en el cual los nodos representan individuos (a veces denominados actores) y las aristas relaciones entre ellos. Las relaciones pueden ser de distinto tipo (...). También es el medio de interacción de distintas personas como por ejemplo juegos en línea, chats, foros, spaces, etc.**
+Según la **Wikipedia**, *una red social es una estructura social que se puede representar en forma de uno o varios grafos en el cual los nodos representan individuos (a veces denominados actores) y las aristas relaciones entre ellos. Las relaciones pueden ser de distinto tipo (...). También es el medio de interacción de distintas personas como por ejemplo juegos en línea, chats, foros, spaces, etc.*
 
 Individuos y relaciones e interacciones o, lo que es lo mismo, alumnos y profesores (a los que podemos sumar padres y madres) en los nodos, procesos y relaciones educativas en las aristas e interacciones entre personas que, en nuestro caso, dirigen su contenido al aprendizaje generando vínculos dentro del aula, del centro y de la comunidad educativa.
 
-La red social permite crear un sistema abierto de comunicación entre nuestros "amigos" y compartir nuestros intereses, preocupaciones o necesidades, tejiendo así nuestra red con los comentarios y participación de los usuarios. Los alumnos conocen a compañeros desconocidos, a los que han visto en el recreo o por las escaleras, que también son alumnos (“amigos”) de alguno de sus profesores, también presentes en la red. Los padres y madres pueden estar integrados y participar interactuando con los alumnos y los profesores… <br/><br/>Mantener contacto con un grupo de personas es el primero de los beneficios que puede aportarnos una red social como Facebook que puede servir para organizar nuestro trabajo: si disponemos de varios blogs y wikis, los enlaces están allí; cualquier evento, noticia, aviso aparece en Facebook y nuestros contactos, nuestros alumnos, saben que existe. Este contacto directo entre personas del mismo centro, de la misma o distintas aulas, con profesores con los que nunca hemos hablado, con padres y madres… crea un clima de cercanía que es beneficioso para el trabajo docente y la enseñanza.
+### Facebook, por ejemplo
 
-**Facebook y sus usos en educación**
+La red social permite crear un sistema abierto de comunicación entre nuestros "amigos" y compartir nuestros intereses, preocupaciones o necesidades, tejiendo así nuestra red con los comentarios y participación de los usuarios. Los alumnos conocen a compañeros desconocidos, a los que han visto en el recreo o por las escaleras, que también son alumnos (“amigos”) de alguno de sus profesores, también presentes en la red. Los padres y madres pueden estar integrados y participar interactuando con los alumnos y los profesores… 
+
+Mantener contacto con un grupo de personas es el primero de los beneficios que puede aportarnos una red social como Facebook que puede servir para organizar nuestro trabajo: si disponemos de varios blogs y wikis, los enlaces están allí; cualquier evento, noticia, aviso aparece en Facebook y nuestros contactos, nuestros alumnos, saben que existe. Este contacto directo entre personas del mismo centro, de la misma o distintas aulas, con profesores con los que nunca hemos hablado, con padres y madres… crea un clima de cercanía que es beneficioso para el trabajo docente y la enseñanza.
+
+### Facebook y sus usos en educación
 
 El éxito de la red social es su capacidad de transmitir lo personal, en este caso lo educativo, ante los otros: ****que otros me conozcan por lo que hago y que yo les conozca por lo que hacen****. Por eso es importante dejar libertad de publicación y de relación en nuestra red, lo que implica también enseñarles a conocer dónde están sus límites y a respetar al centro educativo, al colectivo de profesores y a los propios compañeros, es decir, educar en su uso y, por extensión, en sus peligros cuando salen de la red del centro.
 
@@ -23,15 +27,17 @@ La posibilidad de crear tantos grupos de alumnos como se desee facilita la coord
 - privadamente con el correo interno
 - o colectivamente mediante mensajes enviados a todos los miembros de un grupo.
 
+Cualquier alumno puede contactar con cualquiera de sus profesores y compañeros de forma directa. Así pues, la red social tiene un efecto directo en la mejora de la comunicación personal.
+
 Las redes sociales permiten utilizar **objetos**: productos digitales en forma de texto (mensajes, comentarios a otros objetos, foros de discusión, etc), imágenes, sonidos, blogs, objetos incrustados (documentos, presentaciones, etc.), archivos adjuntos, etc. Los que proporciona la propia red son limitados, pero la capacidad de incrustar objetos externos hace que en la práctica su versatilidad sea muy elevada. Cuando se utiliza la red social para tareas educativas se convierte en el punto de encuentro.
 
-**Algunas redes posibles**
+### Algunas redes posibles
 
 - **Redes de alumnos**: Los grupos constituyen un punto de acercamiento a inquietudes, novedades, aportaciones, exposición de sus conocimientos, fotos, vídeos, música, resúmenes, esquemas… que comparten con el resto de compañeros. En pequeños grupos de trabajo temporales, coordinados por el profesor, incluyen sus aportaciones al trabajo de aula creando un espacio de confianza entre sus miembros para construir su propio conocimiento mientras conviven.
 - **Redes de profesores**: para trabajar entre los Departamentos, profesores de una misma asignatura en un nivel determinado, para emitir información por parte de la Dirección del centro, coordinación etc. Lo que sin lugar a dudas puede facilitar las comunicaciones internas así como la eficacia en la coordinación, el trabajo entre profesores y los lazos de unión entre ellos.
 - Una **red social para padres** puede ser un medio muy eficaz de entrar en contacto con ellos. Además de que, muy probablemente, aumente la implicación de los padres para con la educación de sus hijos.
 
-**En resumen:**
+### En resumen:
 
 - Permite centralizar en un único sitio todas las actividades docentes, profesores y alumnos de un centro educativo.
 - Aumento del sentimiento de comunidad educativa por el efecto de cercanía que producen las redes sociales.
@@ -44,35 +50,19 @@ Las redes sociales permiten utilizar **objetos**: productos digitales en forma 
 
 **Las redes sociales permiten generar nuevas sinergias entre los miembros de una comunidad educativa, facilitan la información, la organización de eventos, compartir recursos y proyectan y consolidan las relaciones interpersonales una vez que se han terminado los estudios.**
 
-** **
-
 **Una experiencia: **Twitter microcuentos** [►](https://twitter.com/SARDINASENLATA)**
 
- 
-
-
-![](capturadaTitwersar.jpg)
-
-7.15.Captura pantalla.
+![7.15.Captura pantalla.](img/capturadaTitwersar.jpg)
 
 [Eduredes ](http://eduredes.ning.com/)es un lugar de intercambio de experiencias en la administración de redes sociales educativas, uso docente de las redes, posibilidades y todo lo que implica el uso de las redes sociales con fines educativos y relacionadas con la educación.
 
- 
+![7.16.Captura pantalla.](img/capturadaEduredes.jpg)
 
-
-![](capturadaEduredes.jpg)
-
- 
-
-7.16.Captura pantalla.
-
- 
-
-**Twitter**
+### Twitter
 
 La mayoría de lo que hemos dicho con carácter general para Facebook sirve para Twitter. con la diferencia de que se trata de un servicio mucho más sencillo de utilizar y su aspecto visual es más claro, por lo que constituye una excelente iniciación en las redes sociales para el profesorado novato que cuenta con la ventaja de que otros compañeros u alumnos pueden ayudarle a gestionarla.
 
-Se trata de un servicio de microblogging, en la que la gente comparte lo que está haciendo, lo que está leyendo, por donde navega y, sobre todo, lo que opina y siente. Eso sí, mediante mensajes de 140 caracteres máximo como este, con los caracteres justos, que escribí para presentar el twitter microcuentos que trabajo con mis alumnos: **La renta de 140 caracteres acaba sin comenzar. Como la vida: palabras, signos, espacios en blanco. Una cuenta atrás hasta los números rojos**. Y así es, un contador nos marca los caracteres restantes en distintos colores hasta que comienzan a aparecer los colorados. Si llegamos a los negativos, es necesario refinar el texto para conseguir encajarlo. Nuestro recorrido es escaso, hasta ahora hemos practicado con tres categorías de microcuentos:
+Se trata de un servicio de microblogging, en la que la gente comparte lo que está haciendo, lo que está leyendo, por donde navega y, sobre todo, lo que opina y siente. Eso sí, mediante mensajes de 280 caracteres máximo como este, con los caracteres justos, que escribí para presentar el twitter microcuentos que trabajo con mis alumnos: **La renta de 140 caracteres acaba sin comenzar. Como la vida: palabras, signos, espacios en blanco. Una cuenta atrás hasta los números rojos**. Y así es, un contador nos marca los caracteres restantes en distintos colores hasta que comienzan a aparecer los colorados. Si llegamos a los negativos, es necesario refinar el texto para conseguir encajarlo. Nuestro recorrido es escaso, hasta ahora hemos practicado con tres categorías de microcuentos:
 
 - Una colección sobre la muerte.
 - Otra que define colores.
@@ -106,6 +96,8 @@ Estos son algunos usos de Twitter en el aula:
 1. **Protagonistas de una novela**. Mientras están leyendo un libro, se pide a los alumnos que creen una cuenta de Twitter del personaje principal y vayan escribiendo en ella, conforme la novela avance, como si fueran el protagonista.
 1. **Reunir datos del mundo real**. Lanzar un twitter con preguntas para poner en común las respuestas **¿Cuáles fueron las causas de la Revolución Francesa?** ...
 1. Aparte de los **usos obvios **del microblogging de crear una comunidad, recordar fechas de exámenes, deberes, etc.
+
+### El papel de las redes sociales
 
 Es posible que quien lea estas propuestas esté, pese a todo, dispuesto a tirar a la basura las posibilidades educativas de las redes sociales por aquello de que los alumnos se distraen, no le culpo de ello, pero antes de tomar la decisión final (que siempre estará a tiempo de rectificar le sugiero la lectura de este artículo del periódico argentino ****La****[**** Nación****](http://www.lanacion.com.ar/nota.asp?nota_id=1221414), este otro de [****El País****](http://www.elpais.com/articulo/internacional/redes/sociales/movilizan/elpepuint/20100115elpepiint_3/Tes) o un tercero de ****[El informador](http://www.informador.com.mx/internacional/2010/170062/6/las-redes-sociales-informan-del-terremoto.htm)**** mejicano. Y no es que, en el futuro, todos nuestros alumnos vayan a ser periodistas, pero serán ciudadanos.
 

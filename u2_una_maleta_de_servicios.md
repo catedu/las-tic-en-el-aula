@@ -4,9 +4,9 @@
 Que podamos viajar por [Youtube](http://www.youtube.com/?gl=ES&amp;hl=es), [Slide Share](http://www.slideshare.net/) o [Slide boom](http://www.slideboom.com/), sólo por poner tres ejemplos, y conseguir vídeos o presentaciones para usar en clase me sigue asombrando, que gente que produce materiales ponga a nuestra disposición, de forma totalmente gratuita (en estos tiempos), sus creaciones sigue siendo una sorpresa, que existan espacios donde colgar nuestros contenidos sin coste alguno es extraordinario. Son tres hechos que ponen de manifiesto la enorme utilidad de la red que ofrece herramientas gratuitas, disponibles y sencillas para utilizar de forma instantánea en clase, en el trabajo o en el ocio.
 
 
-![](img/capturadayoutube.jpg)
+![7.5. Captura pantalla](img/capturadayoutube.jpg)
 
-7.5. Captura pantalla
+
 
  
 

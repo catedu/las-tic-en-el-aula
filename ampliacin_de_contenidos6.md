@@ -1,7 +1,7 @@
 
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para Saber Mas
 
 Como propuesta de ampliación de contenidos exponemos una presentación  descriptiva  de determinadas aplicaciones educativas que nos pueden proporcionar las redes sociales en el ámbito educativo.
 

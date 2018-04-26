@@ -6,9 +6,9 @@ Todos hemos utilizado **Internet como fuente de información**: entramos a **g
  
 
 
-![](img/capturadagoogle2.jpg)
+![7.4.Captura pantalla.Imagen propia](img/capturadagoogle2.jpg)
 
-7.4.Captura pantalla.Imagen propia
+
 
 **Y la información puede ser de muchos tipos:**
 
@@ -26,3 +26,4 @@ Todos hemos utilizado **Internet como fuente de información**: entramos a **g
 - **Simbiótica**, si tomamos recursos de [alguna zona](http://www.slideshare.net/) de descargas y dejamos otros en el mismo lugar.
 - **Parásita**, si sólo [nos aprovechamos](http://www.rincondelvago.com/) de ella.
 
+Y eso sólo mostrando algunas posibilidades de indudable valor pedagógico directo; si tenemos en cuenta que cualquier página puede formar parte de una tarea escolar, podríamos añadir páginas de moda, agencias de viajes, cualquier tipo de comercio, institución o empresa...

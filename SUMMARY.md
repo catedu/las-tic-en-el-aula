@@ -84,8 +84,8 @@ ____
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
 
 <!--
-### M7: INTERNET EN EL AULA 
-* [MÓDULO 7: INTERNET EN EL AULA](index6.md)
+### 7. INTERNET EN EL AULA 
+* [INTERNET EN EL AULA](index6.md)
 * [Contenidos](contenidos6.md)
 	* [U1. Fuente de información](u1_fuente_de_informacin.md)
 	* [U2. Una maleta de servicios](u2_una_maleta_de_servicios.md)
@@ -95,15 +95,16 @@ ____
 	* [U6. Redes Sociales](u6_redes_sociales.md)
 	* [Ampliación de contenidos](ampliacin_de_contenidos6.md)
 
-### M8: UN AULA ABIERTA AL MUNDO 
-* [Módulo 8: UN AULA ABIERTA AL MUNDO](index7.md)
+
+### 8. UN AULA ABIERTA AL MUNDO 
+* [UN AULA ABIERTA AL MUNDO](index7.md)
 * [Contenidos](contenidos7.md)
 	* [U1: Introducción](u1_introduccin.md)
 	* [U2. Wikis](u2_wikis.md)
 	* [U3. Blog](u3_blog.md)
 	* [U4. Pros y contras Wikis-Blogs](u4_pros_y_contras_wikisblogs.md)
 	* [Ampliación de contenidos](ampliacin_de_contenidos7.md)
--->
 ___
+-->
 
 * [Créditos](crditos.md)

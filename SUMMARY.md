@@ -2,8 +2,8 @@
 
 * [Introducción](README.md)
 
-<!--
 ____
+
 ### 1. PROGRAMA A REALIZAR 
 * [PROGRAMA A REALIZAR](index0.md)
 * [Contenidos](contenidos.md)
@@ -25,7 +25,7 @@ ____
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
 
 
-### MÓDULO 2 : UNA PIZARRA... ¿DIFERENTE? 
+### 2. UNA PIZARRA... ¿DIFERENTE? 
 * [Una pizarra... ¿diferente?](index1.md)
 * [CONTENIDOS](contenidos1.md)
 * [U1. Otras forma de "ENSEÑAR"](u1_otras_forma_de_ensear.md)
@@ -71,7 +71,6 @@ ____
 * [U2. AGREGA](u2_agrega.md)
 * [U3. INTEF](u3_ite.md)
 * [U4. OTROS RECURSOS](u4_educared_y_otros_recursos.md)
--->
 
 ### 6. INNOVACIÓN EN EL AULA 
 * [INNOVACIÓN EN EL AULA](index5.md)
@@ -83,7 +82,6 @@ ____
 	* [U5. El modelo MIE-CAIT](u5_el_modelo_miecait.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos5.md)
 
-<!--
 ### 7. INTERNET EN EL AULA 
 * [INTERNET EN EL AULA](index6.md)
 * [Contenidos](contenidos6.md)
@@ -105,6 +103,5 @@ ____
 	* [U4. Pros y contras Wikis-Blogs](u4_pros_y_contras_wikisblogs.md)
 	* [Ampliación de contenidos](ampliacin_de_contenidos7.md)
 ___
--->
 
 * [Créditos](crditos.md)

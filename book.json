@@ -2,7 +2,7 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
     "language": "es",
     "variables": {
-        "title": "Formación de entrada en Educación de Personas Adultas",
+        "title": "Las TIC en el aula",
         "author": "Ricardo Civera Marín",
         "collaborators": [
             { "name": "Isabel Pérez Pérez", "edited": "4. Google Classroom" },

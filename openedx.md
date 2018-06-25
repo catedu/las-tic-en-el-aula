@@ -8,9 +8,13 @@ Open edX es la plataforma de código abierto que impulsa los cursos de edX. A tr
 
 Su objetivo es construir una próspera comunidad mundial de educadores y tecnólogos que comparten soluciones innovadoras para beneficiar a los estudiantes de todo el mundo. Te invitamos a explorar Open edX y participar en nuestro creciente movimiento.
 
-*Texto extraído de https://open.edx.org/about-open-edx*
+_Texto extraído de _[https://open.edx.org/about-open-edx](https://open.edx.org/about-open-edx)
 
->**tip**
->### Pero entonces... ¿Cuál utilizo, Open edX o Moodle?
+> **tip**
 >
->Aquí tienes un [artículo](http://blog.educalab.es/intef/2016/01/28/analizamos-dos-evas-gratuitos-moodle-vs-open-edx/) interesante al respecto.
+> ### Pero entonces... ¿Cuál utilizo, Open edX o Moodle?
+>
+> Aquí tienes un [artículo](http://blog.educalab.es/intef/2016/01/28/analizamos-dos-evas-gratuitos-moodle-vs-open-edx/) interesante al respecto.
+
+
+

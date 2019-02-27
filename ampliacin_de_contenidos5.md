@@ -3,7 +3,7 @@
 ## Para Saber Más
 
 
-### Tipos de proyectos colaborativos**
+### Tipos de proyectos colaborativos
 
 ### Algunos ejemplos
 
@@ -40,7 +40,7 @@ Para investigar el medio en colaboración y compartir conclusiones [►](http:/
 *   [**ePals comunity**](http://www.epals.com/): ePALS es un ejemplo de un auténtico servicio de intercambio de experiencias docentes a través del correo escolar entre alumnos y entre docentes.
 *   [**Eduteka**](http://www.eduteka.org/directorio/index.php?sid=631843751&t=sub_pages&cat=279): Proyectos colaborativos ordenados por áreas.
 
-<p  style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;">   <a title="View 20 Propuestas de Aprendizaje Colaborativo en La Web 2.0 on Scribd" href="https://www.scribd.com/doc/117406937/20-Propuestas-de-Aprendizaje-Colaborativo-en-La-Web-2-0#from_embed"  style="text-decoration: underline;" >20 Propuestas de Aprendizaje Colaborativo en La Web 2.0</a> by <a title="View David Sánchez-Barbudo Miranda's profile on Scribd" href="https://es.scribd.com/user/48795234/David-Sanchez-Barbudo-Miranda#from_embed"  style="text-decoration: underline;" >David Sánchez-Barbudo Miranda</a> on Scribd</p><iframe class="scribd_iframe_embed" title="20 Propuestas de Aprendizaje Colaborativo en La Web 2.0" src="https://www.scribd.com/embeds/117406937/content?start_page=1&view_mode=scroll&access_key=key-1qswes54210rvr2lc6ov&show_recommendations=true" data-auto-height="false" data-aspect-ratio="0.714172604908947" scrolling="no" id="doc_71174" width="100%" height="600" frameborder="0"></iframe>
+[20 Propuestas de Aprendizaje Colaborativo en La Web 2.0](https://es.scribd.com/doc/117406937/20-Propuestas-de-Aprendizaje-Colaborativo-en-La-Web-2-0)
 
 ## Reflexión
 

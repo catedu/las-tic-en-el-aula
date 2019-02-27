@@ -1,5 +1,5 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer"],
+    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"],
     "language": "es",
     "variables": {
         "title": "Las TIC en el aula",
@@ -18,6 +18,14 @@
         "localized-footer": {
             "hline": true,
             "filename": "./FOOTER.md"
+        },
+        "edit-link": {
+            "base": "Edita esta página",
+            "label": "Edita esta página"
+        },
+        "githubcontributors": {
+            "githubOwner": "catedu",
+            "githubRepository": "ensena-pensamiento-computacional-con-arduino"
         }
     }
 }

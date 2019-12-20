@@ -1,31 +1,55 @@
 {
-    "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors"],
-    "language": "es",
-    "variables": {
-        "title": "Las TIC en el aula",
-        "author": "Ricardo Civera Marín",
-        "collaborators": [
-            { "name": "Isabel Pérez Pérez", "edited": "4. Google Classroom" },
-            { "name": "Ricardo Alonso Liarte", "edited": "4. Google Classroom" },
-            { "name": "Gabriel Sánchez Carbajo", "edited": "3. Edmodo" },
-            { "name": "Jesús López de Leyva", "edited": "2. Open edX, 3. INTEF, 4. Otros Recursos" }
-        ]
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Las TIC en el aula",
+    "author": "Ricardo Civera Marín",
+    "collaborators": [
+      {
+        "name": "Isabel Pérez Pérez",
+        "edited": "4. Google Classroom"
+      },
+      {
+        "name": "Ricardo Alonso Liarte",
+        "edited": "4. Google Classroom"
+      },
+      {
+        "name": "Gabriel Sánchez Carbajo",
+        "edited": "3. Edmodo"
+      },
+      {
+        "name": "Jesús López de Leyva",
+        "edited": "2. Open edX, 3. INTEF, 4. Otros Recursos"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
     },
-    "pluginsConfig": {
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "edit-link": {
-            "base": "Edita esta página",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "ensena-pensamiento-computacional-con-arduino"
-        }
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "Edita esta página",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "ensena-pensamiento-computacional-con-arduino"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }

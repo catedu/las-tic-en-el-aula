@@ -17,4 +17,4 @@ Además, todos los contenidos tienen licencia Creative Commons, por lo que puede
 
 Puedes descartarte desde su [repositorio de libros](https://legacy.gitbook.com/@catedu) todos los contenidos en pdf, epub y mobi.
 
-![](https://catedu.gitbooks.io/faq-aularagon/content/assets/descargacursos.png)
+![](https://catedu.github.io/faq-aularagon/assets/descargacursos.png)

@@ -10,4 +10,4 @@ Si quieres crear un curso, una vez registrado debes acceder a ella y solicitar l
 
 **La propia plataforma en la que estás haciendo las tareas de este curso es una instalación de Moodle**
 
-Puedes acceder los contenidos del curso de [CATEDU sobre Moodle](https://catedu.gitbooks.io/moodle-para-la-ensenanza/content/introduccin.html).
+Puedes acceder los contenidos del curso de [CATEDU sobre Moodle](https://catedu.github.io/curso-moodle/).
